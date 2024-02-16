@@ -1,0 +1,1853 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1555pt" height="4946pt" viewBox="0.00 0.00 1555.05 4946.00">
+<g id="graph0" class="graph" transform="translate(4,4942) scale(1)" data-name="G">
+
+<polygon fill="#2e3e56" stroke="none" points="-4,4 -4,-4942 1551.05,-4942 1551.05,4 -4,4" style=""/>
+<g id="clust1" class="cluster" data-name="clusterLiquidInfrastructureERC20">
+
+<path fill="#445773" stroke="#445773" d="M20,-1922C20,-1922 1292.03,-1922 1292.03,-1922 1298.03,-1922 1304.03,-1928 1304.03,-1934 1304.03,-1934 1304.03,-2365 1304.03,-2365 1304.03,-2371 1298.03,-2377 1292.03,-2377 1292.03,-2377 20,-2377 20,-2377 14,-2377 8,-2371 8,-2365 8,-2365 8,-1934 8,-1934 8,-1928 14,-1922 20,-1922" style=""/>
+<text text-anchor="middle" x="656.02" y="-2360.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">LiquidInfrastructureERC20</text>
+</g>
+<g id="clust2" class="cluster" data-name="clusterMath">
+
+<path fill="#445773" stroke="#445773" d="M982.24,-1320C982.24,-1320 1056.35,-1320 1056.35,-1320 1062.35,-1320 1068.35,-1326 1068.35,-1332 1068.35,-1332 1068.35,-1547 1068.35,-1547 1068.35,-1553 1062.35,-1559 1056.35,-1559 1056.35,-1559 982.24,-1559 982.24,-1559 976.24,-1559 970.24,-1553 970.24,-1547 970.24,-1547 970.24,-1332 970.24,-1332 970.24,-1326 976.24,-1320 982.24,-1320" style=""/>
+<text text-anchor="middle" x="1019.29" y="-1542.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">Math  (lib)</text>
+</g>
+<g id="clust3" class="cluster" data-name="clusterOwnable">
+
+<path fill="#445773" stroke="#445773" d="M69.91,-2385C69.91,-2385 510.56,-2385 510.56,-2385 516.56,-2385 522.56,-2391 522.56,-2397 522.56,-2397 522.56,-2620 522.56,-2620 522.56,-2626 516.56,-2632 510.56,-2632 510.56,-2632 69.91,-2632 69.91,-2632 63.91,-2632 57.91,-2626 57.91,-2620 57.91,-2620 57.91,-2397 57.91,-2397 57.91,-2391 63.91,-2385 69.91,-2385" style=""/>
+<text text-anchor="middle" x="290.24" y="-2615.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">Ownable</text>
+</g>
+<g id="clust4" class="cluster" data-name="clusterContext">
+
+<path fill="#445773" stroke="#445773" d="M99.93,-2640C99.93,-2640 209.49,-2640 209.49,-2640 215.49,-2640 221.49,-2646 221.49,-2652 221.49,-2652 221.49,-2759 221.49,-2759 221.49,-2765 215.49,-2771 209.49,-2771 209.49,-2771 99.93,-2771 99.93,-2771 93.93,-2771 87.93,-2765 87.93,-2759 87.93,-2759 87.93,-2652 87.93,-2652 87.93,-2646 93.93,-2640 99.93,-2640" style=""/>
+<text text-anchor="middle" x="154.71" y="-2754.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">Context</text>
+</g>
+<g id="clust5" class="cluster" data-name="clusterIERC20">
+
+<path fill="#445773" stroke="#445773" d="M961.84,-1567C961.84,-1567 1076.75,-1567 1076.75,-1567 1082.75,-1567 1088.75,-1573 1088.75,-1579 1088.75,-1579 1088.75,-1902 1088.75,-1902 1088.75,-1908 1082.75,-1914 1076.75,-1914 1076.75,-1914 961.84,-1914 961.84,-1914 955.84,-1914 949.84,-1908 949.84,-1902 949.84,-1902 949.84,-1579 949.84,-1579 949.84,-1573 955.84,-1567 961.84,-1567" style=""/>
+<text text-anchor="middle" x="1019.29" y="-1897.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IERC20  (iface)</text>
+</g>
+<g id="clust6" class="cluster" data-name="clusterERC20">
+
+<path fill="#445773" stroke="#445773" d="M937.2,-147C937.2,-147 1527.05,-147 1527.05,-147 1533.05,-147 1539.05,-153 1539.05,-159 1539.05,-159 1539.05,-752 1539.05,-752 1539.05,-758 1533.05,-764 1527.05,-764 1527.05,-764 937.2,-764 937.2,-764 931.2,-764 925.2,-758 925.2,-752 925.2,-752 925.2,-159 925.2,-159 925.2,-153 931.2,-147 937.2,-147" style=""/>
+<text text-anchor="middle" x="1232.12" y="-747.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">ERC20</text>
+</g>
+<g id="clust7" class="cluster" data-name="clusterIERC20Metadata">
+
+<path fill="#445773" stroke="#445773" d="M88.35,-2779C88.35,-2779 221.07,-2779 221.07,-2779 227.07,-2779 233.07,-2785 233.07,-2791 233.07,-2791 233.07,-2952 233.07,-2952 233.07,-2958 227.07,-2964 221.07,-2964 221.07,-2964 88.35,-2964 88.35,-2964 82.35,-2964 76.35,-2958 76.35,-2952 76.35,-2952 76.35,-2791 76.35,-2791 76.35,-2785 82.35,-2779 88.35,-2779" style=""/>
+<text text-anchor="middle" x="154.71" y="-2947.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IERC20Metadata  (iface)</text>
+</g>
+<g id="clust8" class="cluster" data-name="clusterERC721Holder">
+
+<path fill="#445773" stroke="#445773" d="M68.82,-2972C68.82,-2972 240.59,-2972 240.59,-2972 246.59,-2972 252.59,-2978 252.59,-2984 252.59,-2984 252.59,-3037 252.59,-3037 252.59,-3043 246.59,-3049 240.59,-3049 240.59,-3049 68.82,-3049 68.82,-3049 62.82,-3049 56.82,-3043 56.82,-3037 56.82,-3037 56.82,-2984 56.82,-2984 56.82,-2978 62.82,-2972 68.82,-2972" style=""/>
+<text text-anchor="middle" x="154.71" y="-3032.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">ERC721Holder</text>
+</g>
+<g id="clust9" class="cluster" data-name="clusterIERC721Receiver">
+
+<path fill="#445773" stroke="#445773" d="M68.82,-3057C68.82,-3057 240.59,-3057 240.59,-3057 246.59,-3057 252.59,-3063 252.59,-3069 252.59,-3069 252.59,-3122 252.59,-3122 252.59,-3128 246.59,-3134 240.59,-3134 240.59,-3134 68.82,-3134 68.82,-3134 62.82,-3134 56.82,-3128 56.82,-3122 56.82,-3122 56.82,-3069 56.82,-3069 56.82,-3063 62.82,-3057 68.82,-3057" style=""/>
+<text text-anchor="middle" x="154.71" y="-3117.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IERC721Receiver  (iface)</text>
+</g>
+<g id="clust10" class="cluster" data-name="clusterERC20Burnable">
+
+<path fill="#445773" stroke="#445773" d="M973.63,-8C973.63,-8 1286.64,-8 1286.64,-8 1292.64,-8 1298.64,-14 1298.64,-20 1298.64,-20 1298.64,-127 1298.64,-127 1298.64,-133 1292.64,-139 1286.64,-139 1286.64,-139 973.63,-139 973.63,-139 967.63,-139 961.63,-133 961.63,-127 961.63,-127 961.63,-20 961.63,-20 961.63,-14 967.63,-8 973.63,-8" style=""/>
+<text text-anchor="middle" x="1130.14" y="-122.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">ERC20Burnable</text>
+</g>
+<g id="clust11" class="cluster" data-name="clusterReentrancyGuard">
+
+<path fill="#445773" stroke="#445773" d="M86.45,-3142C86.45,-3142 222.96,-3142 222.96,-3142 228.96,-3142 234.96,-3148 234.96,-3154 234.96,-3154 234.96,-3269 234.96,-3269 234.96,-3275 228.96,-3281 222.96,-3281 222.96,-3281 86.45,-3281 86.45,-3281 80.45,-3281 74.45,-3275 74.45,-3269 74.45,-3269 74.45,-3154 74.45,-3154 74.45,-3148 80.45,-3142 86.45,-3142" style=""/>
+<text text-anchor="middle" x="154.71" y="-3264.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">ReentrancyGuard</text>
+</g>
+<g id="clust12" class="cluster" data-name="clusterLiquidInfrastructureNFT">
+
+<path fill="#445773" stroke="#445773" d="M648.44,-772C648.44,-772 1113.22,-772 1113.22,-772 1119.22,-772 1125.22,-778 1125.22,-784 1125.22,-784 1125.22,-1215 1125.22,-1215 1125.22,-1221 1119.22,-1227 1113.22,-1227 1113.22,-1227 648.44,-1227 648.44,-1227 642.44,-1227 636.44,-1221 636.44,-1215 636.44,-1215 636.44,-784 636.44,-784 636.44,-778 642.44,-772 648.44,-772" style=""/>
+<text text-anchor="middle" x="880.83" y="-1210.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">LiquidInfrastructureNFT</text>
+</g>
+<g id="clust13" class="cluster" data-name="clusterERC721">
+
+<path fill="#445773" stroke="#445773" d="M78.49,-3289C78.49,-3289 1286.12,-3289 1286.12,-3289 1292.12,-3289 1298.12,-3295 1298.12,-3301 1298.12,-3301 1298.12,-3744 1298.12,-3744 1298.12,-3750 1292.12,-3756 1286.12,-3756 1286.12,-3756 78.49,-3756 78.49,-3756 72.49,-3756 66.49,-3750 66.49,-3744 66.49,-3744 66.49,-3301 66.49,-3301 66.49,-3295 72.49,-3289 78.49,-3289" style=""/>
+<text text-anchor="middle" x="682.31" y="-3739.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">ERC721</text>
+</g>
+<g id="clust14" class="cluster" data-name="clusterIERC721">
+
+<path fill="#445773" stroke="#445773" d="M74.72,-3764C74.72,-3764 234.7,-3764 234.7,-3764 240.7,-3764 246.7,-3770 246.7,-3776 246.7,-3776 246.7,-4207 246.7,-4207 246.7,-4213 240.7,-4219 234.7,-4219 234.7,-4219 74.72,-4219 74.72,-4219 68.72,-4219 62.72,-4213 62.72,-4207 62.72,-4207 62.72,-3776 62.72,-3776 62.72,-3770 68.72,-3764 74.72,-3764" style=""/>
+<text text-anchor="middle" x="154.71" y="-4202.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IERC721  (iface)</text>
+</g>
+<g id="clust15" class="cluster" data-name="clusterIERC165">
+
+<path fill="#445773" stroke="#445773" d="M80.64,-4227C80.64,-4227 228.78,-4227 228.78,-4227 234.78,-4227 240.78,-4233 240.78,-4239 240.78,-4239 240.78,-4292 240.78,-4292 240.78,-4298 234.78,-4304 228.78,-4304 228.78,-4304 80.64,-4304 80.64,-4304 74.64,-4304 68.64,-4298 68.64,-4292 68.64,-4292 68.64,-4239 68.64,-4239 68.64,-4233 74.64,-4227 80.64,-4227" style=""/>
+<text text-anchor="middle" x="154.71" y="-4287.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IERC165  (iface)</text>
+</g>
+<g id="clust16" class="cluster" data-name="clusterIERC721Metadata">
+
+<path fill="#445773" stroke="#445773" d="M381.72,-3042C381.72,-3042 529.85,-3042 529.85,-3042 535.85,-3042 541.85,-3048 541.85,-3054 541.85,-3054 541.85,-3269 541.85,-3269 541.85,-3275 535.85,-3281 529.85,-3281 529.85,-3281 381.72,-3281 381.72,-3281 375.72,-3281 369.72,-3275 369.72,-3269 369.72,-3269 369.72,-3054 369.72,-3054 369.72,-3048 375.72,-3042 381.72,-3042" style=""/>
+<text text-anchor="middle" x="455.78" y="-3264.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IERC721Metadata  (iface)</text>
+</g>
+<g id="clust17" class="cluster" data-name="clusterAddress">
+
+<path fill="#445773" stroke="#445773" d="M99.4,-4312C99.4,-4312 808.4,-4312 808.4,-4312 814.4,-4312 820.4,-4318 820.4,-4324 820.4,-4324 820.4,-4539 820.4,-4539 820.4,-4545 814.4,-4551 808.4,-4551 808.4,-4551 99.4,-4551 99.4,-4551 93.4,-4551 87.4,-4545 87.4,-4539 87.4,-4539 87.4,-4324 87.4,-4324 87.4,-4318 93.4,-4312 99.4,-4312" style=""/>
+<text text-anchor="middle" x="453.9" y="-4534.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">Address  (lib)</text>
+</g>
+<g id="clust18" class="cluster" data-name="clusterStrings">
+
+<path fill="#445773" stroke="#445773" d="M100.46,-4559C100.46,-4559 208.95,-4559 208.95,-4559 214.95,-4559 220.95,-4565 220.95,-4571 220.95,-4571 220.95,-4696 220.95,-4696 220.95,-4702 214.95,-4708 208.95,-4708 208.95,-4708 100.46,-4708 100.46,-4708 94.46,-4708 88.46,-4702 88.46,-4696 88.46,-4696 88.46,-4571 88.46,-4571 88.46,-4565 94.46,-4559 100.46,-4559" style=""/>
+<text text-anchor="middle" x="154.71" y="-4691.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">Strings  (lib)</text>
+</g>
+<g id="clust19" class="cluster" data-name="clusterERC165">
+
+<path fill="#445773" stroke="#445773" d="M80.64,-4716C80.64,-4716 479.45,-4716 479.45,-4716 485.45,-4716 491.45,-4722 491.45,-4728 491.45,-4728 491.45,-4781 491.45,-4781 491.45,-4787 485.45,-4793 479.45,-4793 479.45,-4793 80.64,-4793 80.64,-4793 74.64,-4793 68.64,-4787 68.64,-4781 68.64,-4781 68.64,-4728 68.64,-4728 68.64,-4722 74.64,-4716 80.64,-4716" style=""/>
+<text text-anchor="middle" x="280.04" y="-4776.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">ERC165</text>
+</g>
+<g id="clust20" class="cluster" data-name="clusterOwnableApprovableERC721">
+
+<path fill="#445773" stroke="#445773" d="M343.98,-2887C343.98,-2887 567.59,-2887 567.59,-2887 573.59,-2887 579.59,-2893 579.59,-2899 579.59,-2899 579.59,-3022 579.59,-3022 579.59,-3028 573.59,-3034 567.59,-3034 567.59,-3034 343.98,-3034 343.98,-3034 337.98,-3034 331.98,-3028 331.98,-3022 331.98,-3022 331.98,-2899 331.98,-2899 331.98,-2893 337.98,-2887 343.98,-2887" style=""/>
+<text text-anchor="middle" x="455.78" y="-3017.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">OwnableApprovableERC721</text>
+</g>
+<g id="clust21" class="cluster" data-name="clusterstring">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M987.06,-1235C987.06,-1235 1051.53,-1235 1051.53,-1235 1057.53,-1235 1063.53,-1241 1063.53,-1247 1063.53,-1247 1063.53,-1300 1063.53,-1300 1063.53,-1306 1057.53,-1312 1051.53,-1312 1051.53,-1312 987.06,-1312 987.06,-1312 981.06,-1312 975.06,-1306 975.06,-1300 975.06,-1300 975.06,-1247 975.06,-1247 975.06,-1241 981.06,-1235 987.06,-1235" style=""/>
+<text text-anchor="middle" x="1019.29" y="-1295.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">string</text>
+</g>
+<g id="clust22" class="cluster" data-name="clustertokenId">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M1202.31,-3204C1202.31,-3204 1278.62,-3204 1278.62,-3204 1284.62,-3204 1290.62,-3210 1290.62,-3216 1290.62,-3216 1290.62,-3269 1290.62,-3269 1290.62,-3275 1284.62,-3281 1278.62,-3281 1278.62,-3281 1202.31,-3281 1202.31,-3281 1196.31,-3281 1190.31,-3275 1190.31,-3269 1190.31,-3269 1190.31,-3216 1190.31,-3216 1190.31,-3210 1196.31,-3204 1202.31,-3204" style=""/>
+<text text-anchor="middle" x="1240.47" y="-3264.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">tokenId</text>
+</g>
+<g id="clust23" class="cluster" data-name="clusterto">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M972.57,-3764C972.57,-3764 1066.02,-3764 1066.02,-3764 1072.02,-3764 1078.02,-3770 1078.02,-3776 1078.02,-3776 1078.02,-3829 1078.02,-3829 1078.02,-3835 1072.02,-3841 1066.02,-3841 1066.02,-3841 972.57,-3841 972.57,-3841 966.57,-3841 960.57,-3835 960.57,-3829 960.57,-3829 960.57,-3776 960.57,-3776 960.57,-3770 966.57,-3764 972.57,-3764" style=""/>
+<text text-anchor="middle" x="1019.29" y="-3824.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">to</text>
+</g>
+<g id="clust24" class="cluster" data-name="clustertarget">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M684.39,-4173C684.39,-4173 790.67,-4173 790.67,-4173 796.67,-4173 802.67,-4179 802.67,-4185 802.67,-4185 802.67,-4292 802.67,-4292 802.67,-4298 796.67,-4304 790.67,-4304 790.67,-4304 684.39,-4304 684.39,-4304 678.39,-4304 672.39,-4298 672.39,-4292 672.39,-4292 672.39,-4185 672.39,-4185 672.39,-4179 678.39,-4173 684.39,-4173" style=""/>
+<text text-anchor="middle" x="737.53" y="-4287.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">target</text>
+</g>
+<g id="clust25" class="cluster" data-name="cluster_01">
+
+<polygon fill="#2e3e56" stroke="black" points="81.71,-4801 81.71,-4930 490.78,-4930 490.78,-4801 81.71,-4801" style=""/>
+<text text-anchor="middle" x="286.25" y="-4913.4" font-family="Times,serif" font-size="14.00" style="">Legend</text>
+</g>
+<!-- LiquidInfrastructureERC20.isApprovedHolder -->
+<g id="node1" class="node" pointer-events="visible" data-name="LiquidInfrastructureERC20.isApprovedHolder">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1019.29" cy="-2253" rx="82.82" ry="18" style=""/>
+<text text-anchor="middle" x="1019.29" y="-2248.8" font-family="Times,serif" font-size="14.00" style="">isApprovedHolder</text>
+</g>
+<!-- LiquidInfrastructureERC20.approveHolder -->
+<g id="node2" class="node" pointer-events="visible" data-name="LiquidInfrastructureERC20.approveHolder">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="737.53" cy="-2326" rx="68.91" ry="18" style=""/>
+<text text-anchor="middle" x="737.53" y="-2321.8" font-family="Times,serif" font-size="14.00" style="">approveHolder</text>
+</g>
+<!-- LiquidInfrastructureERC20.approveHolder&#45;&gt;LiquidInfrastructureERC20.isApprovedHolder -->
+<g id="edge1" class="edge" data-name="LiquidInfrastructureERC20.approveHolder-&gt;LiquidInfrastructureERC20.isApprovedHolder">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M793.19,-2314.17C813.28,-2309.66 836.18,-2304.31 856.9,-2299 889.38,-2290.68 925.26,-2280.54 954.93,-2271.91" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="955.72,-2275.32 964.34,-2269.16 953.76,-2268.6 955.72,-2275.32" style=""/>
+</g>
+<!-- LiquidInfrastructureERC20.disapproveHolder -->
+<g id="node3" class="node" pointer-events="visible" data-name="LiquidInfrastructureERC20.disapproveHolder">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="737.53" cy="-2272" rx="80.45" ry="18" style=""/>
+<text text-anchor="middle" x="737.53" y="-2267.8" font-family="Times,serif" font-size="14.00" style="">disapproveHolder</text>
+</g>
+<!-- LiquidInfrastructureERC20.disapproveHolder&#45;&gt;LiquidInfrastructureERC20.isApprovedHolder -->
+<g id="edge2" class="edge" data-name="LiquidInfrastructureERC20.disapproveHolder-&gt;LiquidInfrastructureERC20.isApprovedHolder">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M816.09,-2266.73C850.08,-2264.42 890.24,-2261.7 925.77,-2259.28" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="925.88,-2262.78 935.62,-2258.62 925.4,-2255.8 925.88,-2262.78" style=""/>
+</g>
+<!-- LiquidInfrastructureERC20._beforeTokenTransfer -->
+<g id="node4" class="node" pointer-events="visible" data-name="LiquidInfrastructureERC20._beforeTokenTransfer">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="455.78" cy="-2278" rx="97.8" ry="18" style=""/>
+<text text-anchor="middle" x="455.78" y="-2273.8" font-family="Times,serif" font-size="14.00" style="">_beforeTokenTransfer</text>
+</g>
+<!-- LiquidInfrastructureERC20._beforeTokenTransfer&#45;&gt;LiquidInfrastructureERC20.isApprovedHolder -->
+<g id="edge3" class="edge" data-name="LiquidInfrastructureERC20._beforeTokenTransfer-&gt;LiquidInfrastructureERC20.isApprovedHolder">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M516.88,-2262.71C547.05,-2255.8 584.3,-2248.43 618.15,-2245 724.18,-2234.27 846.8,-2239.27 928.06,-2245" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="927.74,-2248.49 937.97,-2245.72 928.25,-2241.51 927.74,-2248.49" style=""/>
+</g>
+<!-- LiquidInfrastructureERC20._beforeMintOrBurn -->
+<g id="node5" class="node" pointer-events="visible" data-name="LiquidInfrastructureERC20._beforeMintOrBurn">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="737.53" cy="-2124" rx="88.62" ry="18" style=""/>
+<text text-anchor="middle" x="737.53" y="-2119.8" font-family="Times,serif" font-size="14.00" style="">_beforeMintOrBurn</text>
+</g>
+<!-- LiquidInfrastructureERC20._beforeTokenTransfer&#45;&gt;LiquidInfrastructureERC20._beforeMintOrBurn -->
+<g id="edge4" class="edge" data-name="LiquidInfrastructureERC20._beforeTokenTransfer-&gt;LiquidInfrastructureERC20._beforeMintOrBurn">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M541.24,-2268.25C556.16,-2263.41 570.59,-2256.33 582.15,-2246 615.82,-2215.91 584.1,-2180.65 618.15,-2151 625.39,-2144.7 633.8,-2139.78 642.74,-2135.96" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="643.72,-2139.33 651.89,-2132.59 641.3,-2132.76 643.72,-2139.33" style=""/>
+</g>
+<!-- LiquidInfrastructureERC20.balanceOf -->
+<g id="node22" class="node" pointer-events="visible" data-name="LiquidInfrastructureERC20.balanceOf">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1019.29" cy="-2178" rx="50.92" ry="18" style=""/>
+<text text-anchor="middle" x="1019.29" y="-2173.8" font-family="Times,serif" font-size="14.00" style="">balanceOf</text>
+</g>
+<!-- LiquidInfrastructureERC20._beforeTokenTransfer&#45;&gt;LiquidInfrastructureERC20.balanceOf -->
+<g id="edge5" class="edge" data-name="LiquidInfrastructureERC20._beforeTokenTransfer-&gt;LiquidInfrastructureERC20.balanceOf">
+
+<path fill="none" stroke="#80e097" stroke-width="2" d="M518.15,-2262.94C538.57,-2257.77 561.39,-2251.82 582.15,-2246 598.26,-2241.49 601.79,-2238.5 618.15,-2235 722.73,-2212.63 751.09,-2220.49 856.9,-2205 890.97,-2200.01 928.95,-2193.7 959.5,-2188.43" style=""/>
+<polygon fill="#80e097" stroke="#80e097" stroke-width="2" points="959.87,-2191.92 969.13,-2186.76 958.68,-2185.02 959.87,-2191.92" style=""/>
+</g>
+<!-- LiquidInfrastructureERC20._isPastMinDistributionPeriod -->
+<g id="node9" class="node" pointer-events="visible" data-name="LiquidInfrastructureERC20._isPastMinDistributionPeriod">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1019.29" cy="-2056" rx="126.28" ry="18" style=""/>
+<text text-anchor="middle" x="1019.29" y="-2051.8" font-family="Times,serif" font-size="14.00" style="">_isPastMinDistributionPeriod</text>
+</g>
+<!-- LiquidInfrastructureERC20._beforeMintOrBurn&#45;&gt;LiquidInfrastructureERC20._isPastMinDistributionPeriod -->
+<g id="edge6" class="edge" data-name="LiquidInfrastructureERC20._beforeMintOrBurn-&gt;LiquidInfrastructureERC20._isPastMinDistributionPeriod">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M797.86,-2109.58C838.68,-2099.66 893.38,-2086.36 938.07,-2075.5" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="938.86,-2078.91 947.75,-2073.15 937.21,-2072.11 938.86,-2078.91" style=""/>
+</g>
+<!-- LiquidInfrastructureERC20._afterTokenTransfer -->
+<g id="node6" class="node" pointer-events="visible" data-name="LiquidInfrastructureERC20._afterTokenTransfer">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="737.53" cy="-2178" rx="90.86" ry="18" style=""/>
+<text text-anchor="middle" x="737.53" y="-2173.8" font-family="Times,serif" font-size="14.00" style="">_afterTokenTransfer</text>
+</g>
+<!-- LiquidInfrastructureERC20._afterTokenTransfer&#45;&gt;LiquidInfrastructureERC20.balanceOf -->
+<g id="edge7" class="edge" data-name="LiquidInfrastructureERC20._afterTokenTransfer-&gt;LiquidInfrastructureERC20.balanceOf">
+
+<path fill="none" stroke="#80e097" stroke-width="2" d="M829.75,-2178C870.54,-2178 917.64,-2178 954.57,-2178" style=""/>
+<polygon fill="#80e097" stroke="#80e097" stroke-width="2" points="954.15,-2181.5 964.15,-2178 954.15,-2174.5 954.15,-2181.5" style=""/>
+</g>
+<!-- LiquidInfrastructureERC20.distributeToAllHolders -->
+<g id="node7" class="node" pointer-events="visible" data-name="LiquidInfrastructureERC20.distributeToAllHolders">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="455.78" cy="-2076" rx="101.31" ry="18" style=""/>
+<text text-anchor="middle" x="455.78" y="-2071.8" font-family="Times,serif" font-size="14.00" style="">distributeToAllHolders</text>
+</g>
+<!-- LiquidInfrastructureERC20.distribute -->
+<g id="node8" class="node" pointer-events="visible" data-name="LiquidInfrastructureERC20.distribute">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="737.53" cy="-1948" rx="47.53" ry="18" style=""/>
+<text text-anchor="middle" x="737.53" y="-1943.8" font-family="Times,serif" font-size="14.00" style="">distribute</text>
+</g>
+<!-- LiquidInfrastructureERC20.distributeToAllHolders&#45;&gt;LiquidInfrastructureERC20.distribute -->
+<g id="edge8" class="edge" data-name="LiquidInfrastructureERC20.distributeToAllHolders-&gt;LiquidInfrastructureERC20.distribute">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M541.83,-2065.4C555.89,-2061.51 569.87,-2056.22 582.15,-2049 603.06,-2036.72 598.99,-2022.86 618.15,-2008 639.99,-1991.06 667.35,-1976.83 690.26,-1966.48" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="691.6,-1969.71 699.36,-1962.49 688.79,-1963.3 691.6,-1969.71" style=""/>
+</g>
+<!-- LiquidInfrastructureERC20.distribute&#45;&gt;LiquidInfrastructureERC20.isApprovedHolder -->
+<g id="edge12" class="edge" data-name="LiquidInfrastructureERC20.distribute-&gt;LiquidInfrastructureERC20.isApprovedHolder">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M773.64,-1961.17C800.66,-1973.15 836.69,-1993.5 856.9,-2023 903.51,-2091.02 839.77,-2141.95 892.9,-2205 905.23,-2219.62 922.53,-2229.81 940.36,-2236.89" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="938.97,-2240.11 949.57,-2240.19 941.33,-2233.52 938.97,-2240.11" style=""/>
+</g>
+<!-- LiquidInfrastructureERC20.distribute&#45;&gt;LiquidInfrastructureERC20._isPastMinDistributionPeriod -->
+<g id="edge9" class="edge" data-name="LiquidInfrastructureERC20.distribute-&gt;LiquidInfrastructureERC20._isPastMinDistributionPeriod">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M784.55,-1953.11C807.82,-1957.43 835.56,-1965.38 856.9,-1980 879.2,-1995.27 870.22,-2014.31 892.9,-2029 898.63,-2032.71 904.78,-2035.91 911.17,-2038.69" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="909.48,-2041.78 920.07,-2042.13 912.01,-2035.26 909.48,-2041.78" style=""/>
+</g>
+<!-- LiquidInfrastructureERC20._beginDistribution -->
+<g id="node10" class="node" pointer-events="visible" data-name="LiquidInfrastructureERC20._beginDistribution">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1019.29" cy="-2002" rx="83.99" ry="18" style=""/>
+<text text-anchor="middle" x="1019.29" y="-1997.8" font-family="Times,serif" font-size="14.00" style="">_beginDistribution</text>
+</g>
+<!-- LiquidInfrastructureERC20.distribute&#45;&gt;LiquidInfrastructureERC20._beginDistribution -->
+<g id="edge10" class="edge" data-name="LiquidInfrastructureERC20.distribute-&gt;LiquidInfrastructureERC20._beginDistribution">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M781.63,-1956.32C824.02,-1964.5 889.67,-1977.17 941.08,-1987.1" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="940.37,-1990.52 950.85,-1988.98 941.69,-1983.65 940.37,-1990.52" style=""/>
+</g>
+<!-- LiquidInfrastructureERC20._endDistribution -->
+<g id="node11" class="node" pointer-events="visible" data-name="LiquidInfrastructureERC20._endDistribution">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1019.29" cy="-1948" rx="76.47" ry="18" style=""/>
+<text text-anchor="middle" x="1019.29" y="-1943.8" font-family="Times,serif" font-size="14.00" style="">_endDistribution</text>
+</g>
+<!-- LiquidInfrastructureERC20.distribute&#45;&gt;LiquidInfrastructureERC20._endDistribution -->
+<g id="edge15" class="edge" data-name="LiquidInfrastructureERC20.distribute-&gt;LiquidInfrastructureERC20._endDistribution">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M786.3,-1948C825.26,-1948 881.37,-1948 928.65,-1948" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="928.39,-1951.5 938.39,-1948 928.39,-1944.5 928.39,-1951.5" style=""/>
+</g>
+<!-- LiquidInfrastructureERC20.distribute&#45;&gt;LiquidInfrastructureERC20.balanceOf -->
+<g id="edge13" class="edge" data-name="LiquidInfrastructureERC20.distribute-&gt;LiquidInfrastructureERC20.balanceOf">
+
+<path fill="none" stroke="#80e097" stroke-width="2" d="M769.75,-1962.63C795.4,-1975.76 831.5,-1996.97 856.9,-2023 878.62,-2045.26 872.13,-2059.86 892.9,-2083 918.44,-2111.46 953.55,-2137.2 980.12,-2154.69" style=""/>
+<polygon fill="#80e097" stroke="#80e097" stroke-width="2" points="978.09,-2157.54 988.39,-2160.02 981.88,-2151.66 978.09,-2157.54" style=""/>
+</g>
+<!-- Math.min -->
+<g id="node27" class="node" pointer-events="visible" data-name="Math.min">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="1019.29" cy="-1508" rx="27" ry="18" style=""/>
+<text text-anchor="middle" x="1019.29" y="-1503.8" font-family="Times,serif" font-size="14.00" style="">min</text>
+</g>
+<!-- LiquidInfrastructureERC20.distribute&#45;&gt;Math.min -->
+<g id="edge11" class="edge" data-name="LiquidInfrastructureERC20.distribute-&gt;Math.min">
+
+<path fill="none" stroke="white" stroke-width="2" d="M750.18,-1929.44C773.61,-1891.37 826.74,-1801.13 856.9,-1719 881.43,-1652.21 847.49,-1617.78 892.9,-1563 914.58,-1536.85 951.12,-1522.76 979.17,-1515.41" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="979.92,-1518.83 988.83,-1513.11 978.29,-1512.02 979.92,-1518.83" style=""/>
+</g>
+<!-- IERC20.transfer -->
+<g id="node40" class="node" pointer-events="visible" data-name="IERC20.transfer">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="1019.29" cy="-1863" rx="40.55" ry="18" style=""/>
+<text text-anchor="middle" x="1019.29" y="-1858.8" font-family="Times,serif" font-size="14.00" style="">transfer</text>
+</g>
+<!-- LiquidInfrastructureERC20.distribute&#45;&gt;IERC20.transfer -->
+<g id="edge14" class="edge" data-name="LiquidInfrastructureERC20.distribute-&gt;IERC20.transfer">
+
+<path fill="none" stroke="white" stroke-width="2" d="M776.84,-1936.36C827.55,-1920.95 916.89,-1893.81 971.52,-1877.21" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="972.51,-1880.57 981.06,-1874.31 970.47,-1873.87 972.51,-1880.57" style=""/>
+</g>
+<!-- LiquidInfrastructureERC20.totalSupply -->
+<g id="node23" class="node" pointer-events="visible" data-name="LiquidInfrastructureERC20.totalSupply">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1240.47" cy="-2029" rx="55.64" ry="18" style=""/>
+<text text-anchor="middle" x="1240.47" y="-2024.8" font-family="Times,serif" font-size="14.00" style="">totalSupply</text>
+</g>
+<!-- LiquidInfrastructureERC20._isPastMinDistributionPeriod&#45;&gt;LiquidInfrastructureERC20.totalSupply -->
+<g id="edge16" class="edge" data-name="LiquidInfrastructureERC20._isPastMinDistributionPeriod-&gt;LiquidInfrastructureERC20.totalSupply">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M1118.98,-2043.84C1137.63,-2041.55 1156.71,-2039.19 1174.02,-2037.06" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1174.38,-2040.54 1183.88,-2035.85 1173.52,-2033.6 1174.38,-2040.54" style=""/>
+</g>
+<!-- LiquidInfrastructureERC20._beginDistribution&#45;&gt;LiquidInfrastructureERC20.totalSupply -->
+<g id="edge17" class="edge" data-name="LiquidInfrastructureERC20._beginDistribution-&gt;LiquidInfrastructureERC20.totalSupply">
+
+<path fill="none" stroke="#80e097" stroke-width="2" d="M1094.5,-2011.14C1120.3,-2014.32 1149.04,-2017.86 1174.07,-2020.94" style=""/>
+<polygon fill="#80e097" stroke="#80e097" stroke-width="2" points="1173.44,-2024.39 1183.79,-2022.14 1174.29,-2017.44 1173.44,-2024.39" style=""/>
+</g>
+<!-- LiquidInfrastructureERC20.mintAndDistribute -->
+<g id="node12" class="node" pointer-events="visible" data-name="LiquidInfrastructureERC20.mintAndDistribute">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="154.71" cy="-2326" rx="83.99" ry="18" style=""/>
+<text text-anchor="middle" x="154.71" y="-2321.8" font-family="Times,serif" font-size="14.00" style="">mintAndDistribute</text>
+</g>
+<!-- LiquidInfrastructureERC20.mintAndDistribute&#45;&gt;LiquidInfrastructureERC20.distributeToAllHolders -->
+<g id="edge19" class="edge" data-name="LiquidInfrastructureERC20.mintAndDistribute-&gt;LiquidInfrastructureERC20.distributeToAllHolders">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M240.07,-2325.11C259.77,-2320.99 279.15,-2313.15 293.42,-2299 350.1,-2242.77 277.56,-2183.71 329.42,-2123 340.24,-2110.32 354.84,-2101.06 370.25,-2094.3" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="371.32,-2097.64 379.33,-2090.71 368.74,-2091.13 371.32,-2097.64" style=""/>
+</g>
+<!-- LiquidInfrastructureERC20.mintAndDistribute&#45;&gt;LiquidInfrastructureERC20._isPastMinDistributionPeriod -->
+<g id="edge18" class="edge" data-name="LiquidInfrastructureERC20.mintAndDistribute-&gt;LiquidInfrastructureERC20._isPastMinDistributionPeriod">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M236.27,-2320.33C256.04,-2316.29 276.39,-2309.68 293.42,-2299 316,-2284.82 306.05,-2263.86 329.42,-2251 378.77,-2223.83 538.83,-2267.02 582.15,-2231 629.57,-2191.57 570.83,-2136.54 618.15,-2097 638.58,-2079.93 830.43,-2079.83 856.9,-2077 874.51,-2075.12 893.17,-2072.9 911.31,-2070.62" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="911.6,-2074.11 921.08,-2069.38 910.72,-2067.17 911.6,-2074.11" style=""/>
+</g>
+<!-- LiquidInfrastructureERC20.mint -->
+<g id="node13" class="node" pointer-events="visible" data-name="LiquidInfrastructureERC20.mint">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="455.78" cy="-2204" rx="28.99" ry="18" style=""/>
+<text text-anchor="middle" x="455.78" y="-2199.8" font-family="Times,serif" font-size="14.00" style="">mint</text>
+</g>
+<!-- LiquidInfrastructureERC20.mintAndDistribute&#45;&gt;LiquidInfrastructureERC20.mint -->
+<g id="edge20" class="edge" data-name="LiquidInfrastructureERC20.mintAndDistribute-&gt;LiquidInfrastructureERC20.mint">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M237.95,-2321.61C257.47,-2317.52 277.29,-2310.58 293.42,-2299 319.61,-2280.19 303.76,-2255.54 329.42,-2236 353.34,-2217.78 386.53,-2209.87 412.75,-2206.46" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="412.79,-2209.98 422.36,-2205.42 412.04,-2203.02 412.79,-2209.98" style=""/>
+</g>
+<!-- LiquidInfrastructureERC20._mint -->
+<g id="node24" class="node" pointer-events="visible" data-name="LiquidInfrastructureERC20._mint">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="737.53" cy="-2050" rx="33.64" ry="18" style=""/>
+<text text-anchor="middle" x="737.53" y="-2045.8" font-family="Times,serif" font-size="14.00" style="">_mint</text>
+</g>
+<!-- LiquidInfrastructureERC20.mint&#45;&gt;LiquidInfrastructureERC20._mint -->
+<g id="edge21" class="edge" data-name="LiquidInfrastructureERC20.mint-&gt;LiquidInfrastructureERC20._mint">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M486.11,-2205.24C513.98,-2204.85 555.48,-2199.94 582.15,-2177 616.38,-2147.56 584.7,-2112.32 618.15,-2082 637.58,-2064.39 665.73,-2056.32 689.69,-2052.68" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="690,-2056.17 699.5,-2051.46 689.14,-2049.22 690,-2056.17" style=""/>
+</g>
+<!-- LiquidInfrastructureERC20.burnAndDistribute -->
+<g id="node14" class="node" pointer-events="visible" data-name="LiquidInfrastructureERC20.burnAndDistribute">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="154.71" cy="-2272" rx="83.98" ry="18" style=""/>
+<text text-anchor="middle" x="154.71" y="-2267.8" font-family="Times,serif" font-size="14.00" style="">burnAndDistribute</text>
+</g>
+<!-- LiquidInfrastructureERC20.burnAndDistribute&#45;&gt;LiquidInfrastructureERC20.distributeToAllHolders -->
+<g id="edge23" class="edge" data-name="LiquidInfrastructureERC20.burnAndDistribute-&gt;LiquidInfrastructureERC20.distributeToAllHolders">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M239.89,-2270.48C259.49,-2266.36 278.85,-2258.67 293.42,-2245 339.32,-2201.92 284.74,-2152.36 329.42,-2108 336.78,-2100.69 345.57,-2094.97 355.04,-2090.51" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="356.13,-2093.85 364.06,-2086.82 353.48,-2087.37 356.13,-2093.85" style=""/>
+</g>
+<!-- LiquidInfrastructureERC20.burnAndDistribute&#45;&gt;LiquidInfrastructureERC20._isPastMinDistributionPeriod -->
+<g id="edge22" class="edge" data-name="LiquidInfrastructureERC20.burnAndDistribute-&gt;LiquidInfrastructureERC20._isPastMinDistributionPeriod">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M239.61,-2270.18C259.21,-2266.06 278.65,-2258.45 293.42,-2245 335.21,-2206.93 285.51,-2158.61 329.42,-2123 373.17,-2087.51 536.09,-2135.43 582.15,-2103 614.03,-2080.55 585.41,-2044.17 618.15,-2023 662.71,-1994.19 804.12,-2017.66 856.9,-2023 865.04,-2023.82 898.16,-2030.51 932.3,-2037.64" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="931.41,-2041.03 941.91,-2039.66 932.84,-2034.18 931.41,-2041.03" style=""/>
+</g>
+<!-- LiquidInfrastructureERC20.burn -->
+<g id="node25" class="node" pointer-events="visible" data-name="LiquidInfrastructureERC20.burn">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="455.78" cy="-2150" rx="28.98" ry="18" style=""/>
+<text text-anchor="middle" x="455.78" y="-2145.8" font-family="Times,serif" font-size="14.00" style="">burn</text>
+</g>
+<!-- LiquidInfrastructureERC20.burnAndDistribute&#45;&gt;LiquidInfrastructureERC20.burn -->
+<g id="edge24" class="edge" data-name="LiquidInfrastructureERC20.burnAndDistribute-&gt;LiquidInfrastructureERC20.burn">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M238.21,-2267.97C257.73,-2263.87 277.48,-2256.84 293.42,-2245 320.87,-2224.61 302.15,-2197.64 329.42,-2177 353.26,-2158.95 386.59,-2152.41 412.89,-2150.27" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="412.74,-2153.78 422.52,-2149.7 412.33,-2146.79 412.74,-2153.78" style=""/>
+</g>
+<!-- LiquidInfrastructureERC20.burnFromAndDistribute -->
+<g id="node15" class="node" pointer-events="visible" data-name="LiquidInfrastructureERC20.burnFromAndDistribute">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="154.71" cy="-2218" rx="104.84" ry="18" style=""/>
+<text text-anchor="middle" x="154.71" y="-2213.8" font-family="Times,serif" font-size="14.00" style="">burnFromAndDistribute</text>
+</g>
+<!-- LiquidInfrastructureERC20.burnFromAndDistribute&#45;&gt;LiquidInfrastructureERC20.distributeToAllHolders -->
+<g id="edge26" class="edge" data-name="LiquidInfrastructureERC20.burnFromAndDistribute-&gt;LiquidInfrastructureERC20.distributeToAllHolders">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M253.89,-2210.98C268.19,-2206.62 281.93,-2200.24 293.42,-2191 324.74,-2165.79 298.81,-2134.08 329.42,-2108 337.71,-2100.93 347.36,-2095.39 357.56,-2091.06" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="358.76,-2094.35 366.9,-2087.56 356.31,-2087.79 358.76,-2094.35" style=""/>
+</g>
+<!-- LiquidInfrastructureERC20.burnFromAndDistribute&#45;&gt;LiquidInfrastructureERC20._isPastMinDistributionPeriod -->
+<g id="edge25" class="edge" data-name="LiquidInfrastructureERC20.burnFromAndDistribute-&gt;LiquidInfrastructureERC20._isPastMinDistributionPeriod">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M256.9,-2212.81C270.55,-2208.17 283.31,-2201.22 293.42,-2191 355.67,-2128 261.37,-2051.69 329.42,-1995 374.46,-1957.48 800.69,-1991.37 856.9,-2008 874.67,-2013.26 875.63,-2022.3 892.9,-2029 901.95,-2032.51 911.56,-2035.61 921.26,-2038.33" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="920.09,-2041.64 930.65,-2040.81 921.88,-2034.88 920.09,-2041.64" style=""/>
+</g>
+<!-- LiquidInfrastructureERC20.burnFrom -->
+<g id="node26" class="node" pointer-events="visible" data-name="LiquidInfrastructureERC20.burnFrom">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="455.78" cy="-2022" rx="49.83" ry="18" style=""/>
+<text text-anchor="middle" x="455.78" y="-2017.8" font-family="Times,serif" font-size="14.00" style="">burnFrom</text>
+</g>
+<!-- LiquidInfrastructureERC20.burnFromAndDistribute&#45;&gt;LiquidInfrastructureERC20.burnFrom -->
+<g id="edge27" class="edge" data-name="LiquidInfrastructureERC20.burnFromAndDistribute-&gt;LiquidInfrastructureERC20.burnFrom">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M255.95,-2212.31C269.82,-2207.76 282.89,-2200.97 293.42,-2191 340.7,-2146.24 282.55,-2094.2 329.42,-2049 345.96,-2033.04 369.55,-2025.57 391.81,-2022.32" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="392.15,-2025.81 401.69,-2021.21 391.36,-2018.85 392.15,-2025.81" style=""/>
+</g>
+<!-- LiquidInfrastructureERC20.withdrawFromAllManagedNFTs -->
+<g id="node16" class="node" pointer-events="visible" data-name="LiquidInfrastructureERC20.withdrawFromAllManagedNFTs">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="154.71" cy="-2164" rx="138.92" ry="18" style=""/>
+<text text-anchor="middle" x="154.71" y="-2159.8" font-family="Times,serif" font-size="14.00" style="">withdrawFromAllManagedNFTs</text>
+</g>
+<!-- LiquidInfrastructureERC20.withdrawFromManagedNFTs -->
+<g id="node17" class="node" pointer-events="visible" data-name="LiquidInfrastructureERC20.withdrawFromManagedNFTs">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="455.78" cy="-1948" rx="126.24" ry="18" style=""/>
+<text text-anchor="middle" x="455.78" y="-1943.8" font-family="Times,serif" font-size="14.00" style="">withdrawFromManagedNFTs</text>
+</g>
+<!-- LiquidInfrastructureERC20.withdrawFromAllManagedNFTs&#45;&gt;LiquidInfrastructureERC20.withdrawFromManagedNFTs -->
+<g id="edge28" class="edge" data-name="LiquidInfrastructureERC20.withdrawFromAllManagedNFTs-&gt;LiquidInfrastructureERC20.withdrawFromManagedNFTs">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M270.09,-2152.94C278.65,-2148.83 286.59,-2143.61 293.42,-2137 344.84,-2087.19 279.42,-2031.24 329.42,-1980 334.69,-1974.59 340.75,-1970.05 347.28,-1966.25" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="348.62,-1969.49 355.98,-1961.87 345.47,-1963.24 348.62,-1969.49" style=""/>
+</g>
+<!-- LiquidInfrastructureERC20.withdrawFromManagedNFTs&#45;&gt;Math.min -->
+<g id="edge29" class="edge" data-name="LiquidInfrastructureERC20.withdrawFromManagedNFTs-&gt;Math.min">
+
+<path fill="none" stroke="white" stroke-width="2" d="M474.22,-1928.86C530.08,-1868.42 711.59,-1678.78 892.9,-1563 920.97,-1545.08 955.86,-1530.3 981.71,-1520.6" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="982.57,-1524.01 990.76,-1517.29 980.17,-1517.43 982.57,-1524.01" style=""/>
+</g>
+<!-- LiquidInfrastructureNFT.getThresholds -->
+<g id="node74" class="node" pointer-events="visible" data-name="LiquidInfrastructureNFT.getThresholds">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="737.53" cy="-1176" rx="66" ry="18" style=""/>
+<text text-anchor="middle" x="737.53" y="-1171.8" font-family="Times,serif" font-size="14.00" style="">getThresholds</text>
+</g>
+<!-- LiquidInfrastructureERC20.withdrawFromManagedNFTs&#45;&gt;LiquidInfrastructureNFT.getThresholds -->
+<g id="edge30" class="edge" data-name="LiquidInfrastructureERC20.withdrawFromManagedNFTs-&gt;LiquidInfrastructureNFT.getThresholds">
+
+<path fill="none" stroke="white" stroke-width="2" d="M479.47,-1928.97C507.82,-1903.93 555.82,-1857.18 582.15,-1807 610.89,-1752.25 703.68,-1328.26 729.69,-1207.81" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="733.07,-1208.75 731.76,-1198.24 726.23,-1207.28 733.07,-1208.75" style=""/>
+</g>
+<!-- LiquidInfrastructureNFT.withdrawBalancesTo -->
+<g id="node75" class="node" pointer-events="visible" data-name="LiquidInfrastructureNFT.withdrawBalancesTo">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="737.53" cy="-1068" rx="93.18" ry="18" style=""/>
+<text text-anchor="middle" x="737.53" y="-1063.8" font-family="Times,serif" font-size="14.00" style="">withdrawBalancesTo</text>
+</g>
+<!-- LiquidInfrastructureERC20.withdrawFromManagedNFTs&#45;&gt;LiquidInfrastructureNFT.withdrawBalancesTo -->
+<g id="edge31" class="edge" data-name="LiquidInfrastructureERC20.withdrawFromManagedNFTs-&gt;LiquidInfrastructureNFT.withdrawBalancesTo">
+
+<path fill="none" stroke="white" stroke-width="2" d="M481.79,-1929.05C511.83,-1904.6 560.87,-1858.99 582.15,-1807 612.17,-1733.7 567.21,-1155.66 618.15,-1095 623.34,-1088.82 629.62,-1083.89 636.55,-1079.97" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="638.02,-1083.14 645.59,-1075.73 635.05,-1076.81 638.02,-1083.14" style=""/>
+</g>
+<!-- LiquidInfrastructureERC20.addManagedNFT -->
+<g id="node18" class="node" pointer-events="visible" data-name="LiquidInfrastructureERC20.addManagedNFT">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="154.71" cy="-2056" rx="79.31" ry="18" style=""/>
+<text text-anchor="middle" x="154.71" y="-2051.8" font-family="Times,serif" font-size="14.00" style="">addManagedNFT</text>
+</g>
+<!-- LiquidInfrastructureNFT.ownerOf -->
+<g id="node76" class="node" pointer-events="visible" data-name="LiquidInfrastructureNFT.ownerOf">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1019.29" cy="-825" rx="45.22" ry="18" style=""/>
+<text text-anchor="middle" x="1019.29" y="-820.8" font-family="Times,serif" font-size="14.00" style="">ownerOf</text>
+</g>
+<!-- LiquidInfrastructureERC20.addManagedNFT&#45;&gt;LiquidInfrastructureNFT.ownerOf -->
+<g id="edge32" class="edge" data-name="LiquidInfrastructureERC20.addManagedNFT-&gt;LiquidInfrastructureNFT.ownerOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M234.93,-2057.95C256.99,-2054.33 278.87,-2046.05 293.42,-2029 366.73,-1943.06 279.84,-1114.5 329.42,-1013 402.9,-862.55 460.79,-828.22 618.15,-771 742.34,-725.84 900.6,-776.47 975.42,-806.3" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="973.73,-809.39 984.31,-809.93 976.37,-802.91 973.73,-809.39" style=""/>
+</g>
+<!-- LiquidInfrastructureNFT.AccountId -->
+<g id="node77" class="node" pointer-events="visible" data-name="LiquidInfrastructureNFT.AccountId">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="737.53" cy="-960" rx="51.59" ry="18" style=""/>
+<text text-anchor="middle" x="737.53" y="-955.8" font-family="Times,serif" font-size="14.00" style="">AccountId</text>
+</g>
+<!-- LiquidInfrastructureERC20.addManagedNFT&#45;&gt;LiquidInfrastructureNFT.AccountId -->
+<g id="edge33" class="edge" data-name="LiquidInfrastructureERC20.addManagedNFT-&gt;LiquidInfrastructureNFT.AccountId">
+
+<path fill="none" stroke="white" stroke-width="2" d="M234.92,-2057.56C256.84,-2053.91 278.65,-2045.7 293.42,-2029 367.81,-1944.9 298.18,-1632.85 329.42,-1525 404.92,-1264.34 402.32,-1151.5 618.15,-987 633.69,-975.16 653.49,-968.35 672.42,-964.49" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="672.78,-967.98 682.03,-962.82 671.58,-961.08 672.78,-967.98" style=""/>
+</g>
+<!-- LiquidInfrastructureERC20.releaseManagedNFT -->
+<g id="node19" class="node" pointer-events="visible" data-name="LiquidInfrastructureERC20.releaseManagedNFT">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="154.71" cy="-2110" rx="92.02" ry="18" style=""/>
+<text text-anchor="middle" x="154.71" y="-2105.8" font-family="Times,serif" font-size="14.00" style="">releaseManagedNFT</text>
+</g>
+<!-- LiquidInfrastructureERC20.releaseManagedNFT&#45;&gt;LiquidInfrastructureNFT.AccountId -->
+<g id="edge35" class="edge" data-name="LiquidInfrastructureERC20.releaseManagedNFT-&gt;LiquidInfrastructureNFT.AccountId">
+
+<path fill="none" stroke="white" stroke-width="2" d="M247.83,-2108.88C265.18,-2104.38 281.58,-2096.43 293.42,-2083 371.48,-1994.45 282.15,-1661.17 329.42,-1553 394.97,-1402.98 512.69,-1433.26 582.15,-1285 610.45,-1224.6 573.5,-1036.56 618.15,-987 631.82,-971.83 652.08,-964.28 672,-960.75" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="672.21,-964.25 681.63,-959.41 671.25,-957.32 672.21,-964.25" style=""/>
+</g>
+<!-- LiquidInfrastructureNFT.transferFrom -->
+<g id="node78" class="node" pointer-events="visible" data-name="LiquidInfrastructureNFT.transferFrom">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="737.53" cy="-1014" rx="61.41" ry="18" style=""/>
+<text text-anchor="middle" x="737.53" y="-1009.8" font-family="Times,serif" font-size="14.00" style="">transferFrom</text>
+</g>
+<!-- LiquidInfrastructureERC20.releaseManagedNFT&#45;&gt;LiquidInfrastructureNFT.transferFrom -->
+<g id="edge34" class="edge" data-name="LiquidInfrastructureERC20.releaseManagedNFT-&gt;LiquidInfrastructureNFT.transferFrom">
+
+<path fill="none" stroke="white" stroke-width="2" d="M247.05,-2107.28C264.24,-2102.84 280.77,-2095.33 293.42,-2083 346.22,-2031.5 300,-1988.64 329.42,-1921 408.55,-1739.05 516.73,-1740.32 582.15,-1553 619.76,-1445.32 543.95,-1127.62 618.15,-1041 629.41,-1027.86 645.62,-1020.37 662.44,-1016.26" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="662.64,-1019.79 671.77,-1014.42 661.28,-1012.92 662.64,-1019.79" style=""/>
+</g>
+<!-- LiquidInfrastructureERC20.setDistributableERC20s -->
+<g id="node20" class="node" pointer-events="visible" data-name="LiquidInfrastructureERC20.setDistributableERC20s">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="154.71" cy="-2002" rx="104.26" ry="18" style=""/>
+<text text-anchor="middle" x="154.71" y="-1997.8" font-family="Times,serif" font-size="14.00" style="">setDistributableERC20s</text>
+</g>
+<!-- LiquidInfrastructureERC20.&lt;Constructor&gt; -->
+<g id="node21" class="node" pointer-events="visible" data-name="LiquidInfrastructureERC20.&lt;Constructor&gt;">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="154.71" cy="-1948" rx="67.55" ry="18" style=""/>
+<text text-anchor="middle" x="154.71" y="-1943.8" font-family="Times,serif" font-size="14.00" style="">&lt;Constructor&gt;</text>
+</g>
+<!-- Math.max -->
+<g id="node28" class="node" pointer-events="visible" data-name="Math.max">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="1019.29" cy="-1454" rx="27.83" ry="18" style=""/>
+<text text-anchor="middle" x="1019.29" y="-1449.8" font-family="Times,serif" font-size="14.00" style="">max</text>
+</g>
+<!-- Math.average -->
+<g id="node29" class="node" pointer-events="visible" data-name="Math.average">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="1019.29" cy="-1400" rx="41.11" ry="18" style=""/>
+<text text-anchor="middle" x="1019.29" y="-1395.8" font-family="Times,serif" font-size="14.00" style="">average</text>
+</g>
+<!-- Math.ceilDiv -->
+<g id="node30" class="node" pointer-events="visible" data-name="Math.ceilDiv">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="1019.29" cy="-1346" rx="39.42" ry="18" style=""/>
+<text text-anchor="middle" x="1019.29" y="-1341.8" font-family="Times,serif" font-size="14.00" style="">ceilDiv</text>
+</g>
+<!-- Ownable.&lt;Constructor&gt; -->
+<g id="node31" class="node" pointer-events="visible" data-name="Ownable.&lt;Constructor&gt;">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="154.71" cy="-2519" rx="67.55" ry="18" style=""/>
+<text text-anchor="middle" x="154.71" y="-2514.8" font-family="Times,serif" font-size="14.00" style="">&lt;Constructor&gt;</text>
+</g>
+<!-- Ownable._setOwner -->
+<g id="node36" class="node" pointer-events="visible" data-name="Ownable._setOwner">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="455.78" cy="-2465" rx="52.74" ry="18" style=""/>
+<text text-anchor="middle" x="455.78" y="-2460.8" font-family="Times,serif" font-size="14.00" style="">_setOwner</text>
+</g>
+<!-- Ownable.&lt;Constructor&gt;&#45;&gt;Ownable._setOwner -->
+<g id="edge36" class="edge" data-name="Ownable.&lt;Constructor&gt;-&gt;Ownable._setOwner">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M213.02,-2508.65C265.2,-2499.23 341.96,-2485.37 394.92,-2475.81" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="395.31,-2479.3 404.53,-2474.07 394.06,-2472.41 395.31,-2479.3" style=""/>
+</g>
+<!-- Ownable._msgSender -->
+<g id="node37" class="node" pointer-events="visible" data-name="Ownable._msgSender">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="455.78" cy="-2521" rx="58.56" ry="18" style=""/>
+<text text-anchor="middle" x="455.78" y="-2516.8" font-family="Times,serif" font-size="14.00" style="">_msgSender</text>
+</g>
+<!-- Ownable.&lt;Constructor&gt;&#45;&gt;Ownable._msgSender -->
+<g id="edge37" class="edge" data-name="Ownable.&lt;Constructor&gt;-&gt;Ownable._msgSender">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M223.57,-2519.45C271.09,-2519.77 334.48,-2520.2 382.87,-2520.52" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="382.73,-2524.02 392.75,-2520.59 382.77,-2517.02 382.73,-2524.02" style=""/>
+</g>
+<!-- Ownable.owner -->
+<g id="node32" class="node" pointer-events="visible" data-name="Ownable.owner">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="455.78" cy="-2577" rx="35.34" ry="18" style=""/>
+<text text-anchor="middle" x="455.78" y="-2572.8" font-family="Times,serif" font-size="14.00" style="">owner</text>
+</g>
+<!-- Ownable.onlyOwner -->
+<g id="node33" class="node" pointer-events="visible" data-name="Ownable.onlyOwner">
+
+<polygon fill="#edad56" stroke="#1bc6a6" stroke-width="3" points="213.65,-2569.54 213.65,-2584.46 179.12,-2595 130.29,-2595 95.76,-2584.46 95.76,-2569.54 130.29,-2559 179.12,-2559 213.65,-2569.54" style=""/>
+<polygon fill="none" stroke="#1bc6a6" stroke-width="3" points="217.65,-2566.58 217.65,-2587.42 179.72,-2599 129.7,-2599 91.76,-2587.42 91.76,-2566.58 129.7,-2555 179.72,-2555 217.65,-2566.58" style=""/>
+<text text-anchor="middle" x="154.71" y="-2572.8" font-family="Times,serif" font-size="14.00" style="">onlyOwner</text>
+</g>
+<!-- Ownable.onlyOwner&#45;&gt;Ownable.owner -->
+<g id="edge38" class="edge" data-name="Ownable.onlyOwner-&gt;Ownable.owner">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M219.13,-2577C275.01,-2577 355.22,-2577 406.16,-2577" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="406.04,-2580.5 416.04,-2577 406.04,-2573.5 406.04,-2580.5" style=""/>
+</g>
+<!-- Ownable.onlyOwner&#45;&gt;Ownable._msgSender -->
+<g id="edge39" class="edge" data-name="Ownable.onlyOwner-&gt;Ownable._msgSender">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M218.4,-2565.26C269.09,-2555.77 340.15,-2542.46 391.1,-2532.92" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="391.44,-2536.42 400.62,-2531.14 390.15,-2529.54 391.44,-2536.42" style=""/>
+</g>
+<!-- Ownable.renounceOwnership -->
+<g id="node34" class="node" pointer-events="visible" data-name="Ownable.renounceOwnership">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="154.71" cy="-2465" rx="88.6" ry="18" style=""/>
+<text text-anchor="middle" x="154.71" y="-2460.8" font-family="Times,serif" font-size="14.00" style="">renounceOwnership</text>
+</g>
+<!-- Ownable.renounceOwnership&#45;&gt;Ownable._setOwner -->
+<g id="edge40" class="edge" data-name="Ownable.renounceOwnership-&gt;Ownable._setOwner">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M244.63,-2465C290.88,-2465 346.43,-2465 388.8,-2465" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="388.76,-2468.5 398.76,-2465 388.76,-2461.5 388.76,-2468.5" style=""/>
+</g>
+<!-- Ownable.transferOwnership -->
+<g id="node35" class="node" pointer-events="visible" data-name="Ownable.transferOwnership">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="154.71" cy="-2411" rx="82.81" ry="18" style=""/>
+<text text-anchor="middle" x="154.71" y="-2406.8" font-family="Times,serif" font-size="14.00" style="">transferOwnership</text>
+</g>
+<!-- Ownable.transferOwnership&#45;&gt;Ownable._setOwner -->
+<g id="edge41" class="edge" data-name="Ownable.transferOwnership-&gt;Ownable._setOwner">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M221.34,-2422.85C273.07,-2432.19 344.59,-2445.1 394.8,-2454.17" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="393.96,-2457.57 404.42,-2455.91 395.2,-2450.69 393.96,-2457.57" style=""/>
+</g>
+<!-- Context._msgSender -->
+<g id="node38" class="node" pointer-events="visible" data-name="Context._msgSender">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="154.71" cy="-2720" rx="58.56" ry="18" style=""/>
+<text text-anchor="middle" x="154.71" y="-2715.8" font-family="Times,serif" font-size="14.00" style="">_msgSender</text>
+</g>
+<!-- Context._msgData -->
+<g id="node39" class="node" pointer-events="visible" data-name="Context._msgData">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="154.71" cy="-2666" rx="50.39" ry="18" style=""/>
+<text text-anchor="middle" x="154.71" y="-2661.8" font-family="Times,serif" font-size="14.00" style="">_msgData</text>
+</g>
+<!-- ERC20._transfer -->
+<g id="node57" class="node" pointer-events="visible" data-name="ERC20._transfer">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1240.47" cy="-389" rx="45.21" ry="18" style=""/>
+<text text-anchor="middle" x="1240.47" y="-384.8" font-family="Times,serif" font-size="14.00" style="">_transfer</text>
+</g>
+<!-- IERC20.transfer&#45;&gt;ERC20._transfer -->
+<g id="edge42" class="edge" data-name="IERC20.transfer-&gt;ERC20._transfer">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M1060.76,-1865.95C1088.97,-1865.59 1125.11,-1859.86 1145.69,-1836 1241.17,-1725.29 1240.59,-624.08 1239.66,-421.08" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1243.16,-421.29 1239.61,-411.31 1236.16,-421.33 1243.16,-421.29" style=""/>
+</g>
+<!-- ERC20._msgSender -->
+<g id="node63" class="node" pointer-events="visible" data-name="ERC20._msgSender">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1240.47" cy="-335" rx="58.56" ry="18" style=""/>
+<text text-anchor="middle" x="1240.47" y="-330.8" font-family="Times,serif" font-size="14.00" style="">_msgSender</text>
+</g>
+<!-- IERC20.transfer&#45;&gt;ERC20._msgSender -->
+<g id="edge43" class="edge" data-name="IERC20.transfer-&gt;ERC20._msgSender">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M1060.75,-1866.2C1089.15,-1866 1125.52,-1860.36 1145.69,-1836 1197.93,-1772.91 1136.86,-430.56 1181.69,-362 1183.1,-359.85 1184.72,-357.86 1186.52,-356.03" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1188.56,-358.88 1194.3,-349.98 1184.26,-353.36 1188.56,-358.88" style=""/>
+</g>
+<!-- IERC20.totalSupply -->
+<g id="node41" class="node" pointer-events="visible" data-name="IERC20.totalSupply">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="1019.29" cy="-1809" rx="55.64" ry="18" style=""/>
+<text text-anchor="middle" x="1019.29" y="-1804.8" font-family="Times,serif" font-size="14.00" style="">totalSupply</text>
+</g>
+<!-- IERC20.balanceOf -->
+<g id="node42" class="node" pointer-events="visible" data-name="IERC20.balanceOf">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="1019.29" cy="-1755" rx="50.92" ry="18" style=""/>
+<text text-anchor="middle" x="1019.29" y="-1750.8" font-family="Times,serif" font-size="14.00" style="">balanceOf</text>
+</g>
+<!-- IERC20.allowance -->
+<g id="node43" class="node" pointer-events="visible" data-name="IERC20.allowance">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="1019.29" cy="-1701" rx="50.36" ry="18" style=""/>
+<text text-anchor="middle" x="1019.29" y="-1696.8" font-family="Times,serif" font-size="14.00" style="">allowance</text>
+</g>
+<!-- IERC20.approve -->
+<g id="node44" class="node" pointer-events="visible" data-name="IERC20.approve">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="1019.29" cy="-1647" rx="42.28" ry="18" style=""/>
+<text text-anchor="middle" x="1019.29" y="-1642.8" font-family="Times,serif" font-size="14.00" style="">approve</text>
+</g>
+<!-- IERC20.transferFrom -->
+<g id="node45" class="node" pointer-events="visible" data-name="IERC20.transferFrom">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="1019.29" cy="-1593" rx="61.41" ry="18" style=""/>
+<text text-anchor="middle" x="1019.29" y="-1588.8" font-family="Times,serif" font-size="14.00" style="">transferFrom</text>
+</g>
+<!-- ERC20.&lt;Constructor&gt; -->
+<g id="node46" class="node" pointer-events="visible" data-name="ERC20.&lt;Constructor&gt;">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="1019.29" cy="-713" rx="67.55" ry="18" style=""/>
+<text text-anchor="middle" x="1019.29" y="-708.8" font-family="Times,serif" font-size="14.00" style="">&lt;Constructor&gt;</text>
+</g>
+<!-- ERC20.name -->
+<g id="node47" class="node" pointer-events="visible" data-name="ERC20.name">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="1019.29" cy="-659" rx="31.9" ry="18" style=""/>
+<text text-anchor="middle" x="1019.29" y="-654.8" font-family="Times,serif" font-size="14.00" style="">name</text>
+</g>
+<!-- ERC20.symbol -->
+<g id="node48" class="node" pointer-events="visible" data-name="ERC20.symbol">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="1019.29" cy="-605" rx="39.45" ry="18" style=""/>
+<text text-anchor="middle" x="1019.29" y="-600.8" font-family="Times,serif" font-size="14.00" style="">symbol</text>
+</g>
+<!-- ERC20.decimals -->
+<g id="node49" class="node" pointer-events="visible" data-name="ERC20.decimals">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="1019.29" cy="-551" rx="45.22" ry="18" style=""/>
+<text text-anchor="middle" x="1019.29" y="-546.8" font-family="Times,serif" font-size="14.00" style="">decimals</text>
+</g>
+<!-- ERC20.totalSupply -->
+<g id="node50" class="node" pointer-events="visible" data-name="ERC20.totalSupply">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="1019.29" cy="-497" rx="55.64" ry="18" style=""/>
+<text text-anchor="middle" x="1019.29" y="-492.8" font-family="Times,serif" font-size="14.00" style="">totalSupply</text>
+</g>
+<!-- ERC20.balanceOf -->
+<g id="node51" class="node" pointer-events="visible" data-name="ERC20.balanceOf">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="1019.29" cy="-443" rx="50.92" ry="18" style=""/>
+<text text-anchor="middle" x="1019.29" y="-438.8" font-family="Times,serif" font-size="14.00" style="">balanceOf</text>
+</g>
+<!-- ERC20.allowance -->
+<g id="node52" class="node" pointer-events="visible" data-name="ERC20.allowance">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="1019.29" cy="-389" rx="50.36" ry="18" style=""/>
+<text text-anchor="middle" x="1019.29" y="-384.8" font-family="Times,serif" font-size="14.00" style="">allowance</text>
+</g>
+<!-- ERC20.approve -->
+<g id="node53" class="node" pointer-events="visible" data-name="ERC20.approve">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="1019.29" cy="-173" rx="42.28" ry="18" style=""/>
+<text text-anchor="middle" x="1019.29" y="-168.8" font-family="Times,serif" font-size="14.00" style="">approve</text>
+</g>
+<!-- ERC20._approve -->
+<g id="node60" class="node" pointer-events="visible" data-name="ERC20._approve">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1240.47" cy="-281" rx="46.93" ry="18" style=""/>
+<text text-anchor="middle" x="1240.47" y="-276.8" font-family="Times,serif" font-size="14.00" style="">_approve</text>
+</g>
+<!-- ERC20.approve&#45;&gt;ERC20._approve -->
+<g id="edge44" class="edge" data-name="ERC20.approve-&gt;ERC20._approve">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M1062.95,-174.23C1088.81,-176.8 1121.38,-183.46 1145.69,-200 1169.53,-216.23 1159.81,-235.2 1181.69,-254 1185.21,-257.03 1189.13,-259.79 1193.23,-262.29" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1191.19,-265.17 1201.65,-266.86 1194.53,-259.02 1191.19,-265.17" style=""/>
+</g>
+<!-- ERC20.approve&#45;&gt;ERC20._msgSender -->
+<g id="edge45" class="edge" data-name="ERC20.approve-&gt;ERC20._msgSender">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M1062.85,-171.95C1089.65,-173.53 1123.3,-179.94 1145.69,-200 1183.37,-233.76 1148.03,-270.22 1181.69,-308 1183.6,-310.15 1185.72,-312.14 1187.99,-313.98" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1185.9,-316.8 1196.15,-319.46 1189.8,-310.98 1185.9,-316.8" style=""/>
+</g>
+<!-- ERC20.transferFrom -->
+<g id="node54" class="node" pointer-events="visible" data-name="ERC20.transferFrom">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="1019.29" cy="-335" rx="61.41" ry="18" style=""/>
+<text text-anchor="middle" x="1019.29" y="-330.8" font-family="Times,serif" font-size="14.00" style="">transferFrom</text>
+</g>
+<!-- ERC20.transferFrom&#45;&gt;ERC20._transfer -->
+<g id="edge46" class="edge" data-name="ERC20.transferFrom-&gt;ERC20._transfer">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M1072.34,-345.38C1094.96,-350.1 1121.71,-355.98 1145.69,-362 1160.3,-365.67 1176.08,-370.05 1190.45,-374.21" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1189.17,-377.48 1199.75,-376.92 1191.13,-370.76 1189.17,-377.48" style=""/>
+</g>
+<!-- ERC20.transferFrom&#45;&gt;ERC20._approve -->
+<g id="edge48" class="edge" data-name="ERC20.transferFrom-&gt;ERC20._approve">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M1072.34,-324.62C1094.96,-319.9 1121.71,-314.02 1145.69,-308 1159.9,-304.43 1175.22,-300.19 1189.27,-296.14" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1190.23,-299.5 1198.85,-293.34 1188.27,-292.78 1190.23,-299.5" style=""/>
+</g>
+<!-- ERC20.transferFrom&#45;&gt;ERC20._msgSender -->
+<g id="edge47" class="edge" data-name="ERC20.transferFrom-&gt;ERC20._msgSender">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M1079.03,-328.94C1107.3,-328.11 1141.38,-328.03 1170.85,-328.69" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1170.48,-332.18 1180.57,-328.95 1170.66,-325.18 1170.48,-332.18" style=""/>
+</g>
+<!-- ERC20.transferFrom&#45;&gt;ERC20._msgSender -->
+<g id="edge49" class="edge" data-name="ERC20.transferFrom-&gt;ERC20._msgSender">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M1079.03,-341.06C1107.3,-341.89 1141.38,-341.97 1170.85,-341.31" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1170.66,-344.82 1180.57,-341.05 1170.48,-337.82 1170.66,-344.82" style=""/>
+</g>
+<!-- ERC20.increaseAllowance -->
+<g id="node55" class="node" pointer-events="visible" data-name="ERC20.increaseAllowance">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="1019.29" cy="-281" rx="84.49" ry="18" style=""/>
+<text text-anchor="middle" x="1019.29" y="-276.8" font-family="Times,serif" font-size="14.00" style="">increaseAllowance</text>
+</g>
+<!-- ERC20.increaseAllowance&#45;&gt;ERC20._approve -->
+<g id="edge50" class="edge" data-name="ERC20.increaseAllowance-&gt;ERC20._approve">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M1105.03,-281C1129.92,-281 1156.61,-281 1179.6,-281" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1179.28,-284.5 1189.28,-281 1179.28,-277.5 1179.28,-284.5" style=""/>
+</g>
+<!-- ERC20.increaseAllowance&#45;&gt;ERC20._msgSender -->
+<g id="edge51" class="edge" data-name="ERC20.increaseAllowance-&gt;ERC20._msgSender">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M1098.75,-288.22C1114.34,-291.46 1130.57,-295.2 1145.69,-299 1162.97,-303.34 1181.88,-308.68 1198.17,-314.08" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1196.59,-317.23 1207.18,-317.21 1198.88,-310.62 1196.59,-317.23" style=""/>
+</g>
+<!-- ERC20.increaseAllowance&#45;&gt;ERC20._msgSender -->
+<g id="edge52" class="edge" data-name="ERC20.increaseAllowance-&gt;ERC20._msgSender">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M1063.99,-297.6C1088.16,-303.62 1118.69,-310.22 1145.69,-317 1154.61,-319.24 1163.97,-321.75 1173.18,-324.22" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1172.09,-327.55 1182.66,-326.76 1173.9,-320.79 1172.09,-327.55" style=""/>
+</g>
+<!-- ERC20.decreaseAllowance -->
+<g id="node56" class="node" pointer-events="visible" data-name="ERC20.decreaseAllowance">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="1019.29" cy="-227" rx="86.2" ry="18" style=""/>
+<text text-anchor="middle" x="1019.29" y="-222.8" font-family="Times,serif" font-size="14.00" style="">decreaseAllowance</text>
+</g>
+<!-- ERC20.decreaseAllowance&#45;&gt;ERC20._approve -->
+<g id="edge54" class="edge" data-name="ERC20.decreaseAllowance-&gt;ERC20._approve">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M1084.6,-239.97C1104.27,-244.17 1125.93,-249.03 1145.69,-254 1159.9,-257.57 1175.22,-261.81 1189.27,-265.86" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1188.27,-269.22 1198.85,-268.66 1190.23,-262.5 1188.27,-269.22" style=""/>
+</g>
+<!-- ERC20.decreaseAllowance&#45;&gt;ERC20._msgSender -->
+<g id="edge53" class="edge" data-name="ERC20.decreaseAllowance-&gt;ERC20._msgSender">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M1106.86,-227.58C1120.6,-231.47 1134.09,-237.11 1145.69,-245 1169.53,-261.23 1159.81,-280.2 1181.69,-299 1187.5,-303.99 1194.39,-308.26 1201.35,-312.01" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1199.74,-315.12 1210.25,-316.49 1202.89,-308.87 1199.74,-315.12" style=""/>
+</g>
+<!-- ERC20.decreaseAllowance&#45;&gt;ERC20._msgSender -->
+<g id="edge55" class="edge" data-name="ERC20.decreaseAllowance-&gt;ERC20._msgSender">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M1084.98,-239.82C1105.73,-244.1 1127.92,-250.91 1145.69,-263 1166.74,-277.32 1161.63,-293.79 1181.74,-315.2" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1179.28,-317.69 1188.99,-321.94 1184.04,-312.57 1179.28,-317.69" style=""/>
+</g>
+<!-- ERC20._beforeTokenTransfer -->
+<g id="node61" class="node" pointer-events="visible" data-name="ERC20._beforeTokenTransfer">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1433.15" cy="-254" rx="97.8" ry="18" style=""/>
+<text text-anchor="middle" x="1433.15" y="-249.8" font-family="Times,serif" font-size="14.00" style="">_beforeTokenTransfer</text>
+</g>
+<!-- ERC20._transfer&#45;&gt;ERC20._beforeTokenTransfer -->
+<g id="edge56" class="edge" data-name="ERC20._transfer-&gt;ERC20._beforeTokenTransfer">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M1275.82,-376.31C1285.25,-372.27 1295.28,-367.41 1304.03,-362 1341.6,-338.76 1379.67,-305.1 1404.44,-281.55" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1406.61,-284.31 1411.38,-274.85 1401.75,-279.27 1406.61,-284.31" style=""/>
+</g>
+<!-- ERC20._afterTokenTransfer -->
+<g id="node62" class="node" pointer-events="visible" data-name="ERC20._afterTokenTransfer">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1433.15" cy="-200" rx="90.86" ry="18" style=""/>
+<text text-anchor="middle" x="1433.15" y="-195.8" font-family="Times,serif" font-size="14.00" style="">_afterTokenTransfer</text>
+</g>
+<!-- ERC20._transfer&#45;&gt;ERC20._afterTokenTransfer -->
+<g id="edge57" class="edge" data-name="ERC20._transfer-&gt;ERC20._afterTokenTransfer">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M1280.27,-378.86C1289.17,-374.9 1297.82,-369.45 1304.03,-362 1343.48,-314.71 1292.68,-271.5 1335.24,-227 1338.81,-223.27 1342.84,-220.05 1347.18,-217.25" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1348.71,-220.41 1355.87,-212.6 1345.4,-214.24 1348.71,-220.41" style=""/>
+</g>
+<!-- ERC20._mint -->
+<g id="node58" class="node" pointer-events="visible" data-name="ERC20._mint">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="1240.47" cy="-173" rx="33.64" ry="18" style=""/>
+<text text-anchor="middle" x="1240.47" y="-168.8" font-family="Times,serif" font-size="14.00" style="">_mint</text>
+</g>
+<!-- ERC20._mint&#45;&gt;ERC20._beforeTokenTransfer -->
+<g id="edge58" class="edge" data-name="ERC20._mint-&gt;ERC20._beforeTokenTransfer">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M1270.11,-183.21C1281.09,-187.67 1293.51,-193.4 1304.03,-200 1319.57,-209.75 1319.08,-218.33 1335.24,-227 1341.01,-230.09 1347.17,-232.86 1353.47,-235.33" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1352.28,-238.62 1362.87,-238.7 1354.64,-232.03 1352.28,-238.62" style=""/>
+</g>
+<!-- ERC20._mint&#45;&gt;ERC20._afterTokenTransfer -->
+<g id="edge59" class="edge" data-name="ERC20._mint-&gt;ERC20._afterTokenTransfer">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M1274.24,-177.64C1293.47,-180.36 1318.77,-183.95 1343.47,-187.44" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1342.9,-190.9 1353.29,-188.83 1343.88,-183.97 1342.9,-190.9" style=""/>
+</g>
+<!-- ERC20._burn -->
+<g id="node59" class="node" pointer-events="visible" data-name="ERC20._burn">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="1240.47" cy="-227" rx="33.63" ry="18" style=""/>
+<text text-anchor="middle" x="1240.47" y="-222.8" font-family="Times,serif" font-size="14.00" style="">_burn</text>
+</g>
+<!-- ERC20._burn&#45;&gt;ERC20._beforeTokenTransfer -->
+<g id="edge60" class="edge" data-name="ERC20._burn-&gt;ERC20._beforeTokenTransfer">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M1274.24,-231.64C1292.57,-234.24 1316.41,-237.61 1339.99,-240.95" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1339.26,-244.38 1349.65,-242.32 1340.24,-237.45 1339.26,-244.38" style=""/>
+</g>
+<!-- ERC20._burn&#45;&gt;ERC20._afterTokenTransfer -->
+<g id="edge61" class="edge" data-name="ERC20._burn-&gt;ERC20._afterTokenTransfer">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M1274.24,-222.36C1293.47,-219.64 1318.77,-216.05 1343.47,-212.56" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1343.88,-216.03 1353.29,-211.17 1342.9,-209.1 1343.88,-216.03" style=""/>
+</g>
+<!-- IERC20Metadata.name -->
+<g id="node64" class="node" pointer-events="visible" data-name="IERC20Metadata.name">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="154.71" cy="-2913" rx="31.9" ry="18" style=""/>
+<text text-anchor="middle" x="154.71" y="-2908.8" font-family="Times,serif" font-size="14.00" style="">name</text>
+</g>
+<!-- IERC20Metadata.symbol -->
+<g id="node65" class="node" pointer-events="visible" data-name="IERC20Metadata.symbol">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="154.71" cy="-2859" rx="39.45" ry="18" style=""/>
+<text text-anchor="middle" x="154.71" y="-2854.8" font-family="Times,serif" font-size="14.00" style="">symbol</text>
+</g>
+<!-- IERC20Metadata.decimals -->
+<g id="node66" class="node" pointer-events="visible" data-name="IERC20Metadata.decimals">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="154.71" cy="-2805" rx="45.22" ry="18" style=""/>
+<text text-anchor="middle" x="154.71" y="-2800.8" font-family="Times,serif" font-size="14.00" style="">decimals</text>
+</g>
+<!-- ERC721Holder.onERC721Received -->
+<g id="node67" class="node" pointer-events="visible" data-name="ERC721Holder.onERC721Received">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="154.71" cy="-2998" rx="89.77" ry="18" style=""/>
+<text text-anchor="middle" x="154.71" y="-2993.8" font-family="Times,serif" font-size="14.00" style="">onERC721Received</text>
+</g>
+<!-- IERC721Receiver.onERC721Received -->
+<g id="node68" class="node" pointer-events="visible" data-name="IERC721Receiver.onERC721Received">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="154.71" cy="-3083" rx="89.77" ry="18" style=""/>
+<text text-anchor="middle" x="154.71" y="-3078.8" font-family="Times,serif" font-size="14.00" style="">onERC721Received</text>
+</g>
+<!-- ERC20Burnable.burn -->
+<g id="node69" class="node" pointer-events="visible" data-name="ERC20Burnable.burn">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="1019.29" cy="-88" rx="28.98" ry="18" style=""/>
+<text text-anchor="middle" x="1019.29" y="-83.8" font-family="Times,serif" font-size="14.00" style="">burn</text>
+</g>
+<!-- ERC20Burnable.burn&#45;&gt;ERC20._burn -->
+<g id="edge62" class="edge" data-name="ERC20Burnable.burn-&gt;ERC20._burn">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M1047.55,-94.86C1074.82,-102.82 1116.76,-118.12 1145.69,-143 1168.4,-162.54 1159.21,-180.19 1181.69,-200 1186.7,-204.42 1192.56,-208.25 1198.58,-211.53" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1196.96,-214.63 1207.48,-215.85 1200.01,-208.33 1196.96,-214.63" style=""/>
+</g>
+<!-- ERC20Burnable.burn&#45;&gt;ERC20._msgSender -->
+<g id="edge63" class="edge" data-name="ERC20Burnable.burn-&gt;ERC20._msgSender">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M1048.73,-92.75C1077.56,-99.09 1121.29,-113.2 1145.69,-143 1193.24,-201.07 1134.83,-249.37 1181.69,-308 1183.46,-310.21 1185.45,-312.25 1187.6,-314.14" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1185.23,-316.74 1195.41,-319.65 1189.26,-311.02 1185.23,-316.74" style=""/>
+</g>
+<!-- ERC20Burnable.burnFrom -->
+<g id="node70" class="node" pointer-events="visible" data-name="ERC20Burnable.burnFrom">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="1019.29" cy="-34" rx="49.83" ry="18" style=""/>
+<text text-anchor="middle" x="1019.29" y="-29.8" font-family="Times,serif" font-size="14.00" style="">burnFrom</text>
+</g>
+<!-- ERC20Burnable.burnFrom&#45;&gt;ERC20._burn -->
+<g id="edge68" class="edge" data-name="ERC20Burnable.burnFrom-&gt;ERC20._burn">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M1070.35,-32.91C1095.96,-35.01 1125.84,-41.96 1145.69,-61 1191.73,-105.18 1140.89,-150.93 1181.69,-200 1186,-205.19 1191.53,-209.44 1197.46,-212.9" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1195.9,-216.03 1206.42,-217.29 1198.98,-209.74 1195.9,-216.03" style=""/>
+</g>
+<!-- ERC20Burnable.burnFrom&#45;&gt;ERC20._approve -->
+<g id="edge66" class="edge" data-name="ERC20Burnable.burnFrom-&gt;ERC20._approve">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M1070.26,-32.32C1096.17,-34.2 1126.36,-41.13 1145.69,-61 1206.53,-123.55 1128.25,-185.02 1181.69,-254 1184.26,-257.33 1187.35,-260.26 1190.73,-262.84" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1188.67,-265.68 1199.01,-267.99 1192.37,-259.74 1188.67,-265.68" style=""/>
+</g>
+<!-- ERC20Burnable.burnFrom&#45;&gt;ERC20._msgSender -->
+<g id="edge65" class="edge" data-name="ERC20Burnable.burnFrom-&gt;ERC20._msgSender">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M1063.19,-24.01C1090.66,-23.59 1124.93,-29.8 1145.69,-52 1221.45,-133.04 1115.51,-209.96 1181.69,-299 1185.81,-304.55 1191.37,-309.01 1197.41,-312.69" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1195.45,-315.61 1205.93,-317.17 1198.7,-309.42 1195.45,-315.61" style=""/>
+</g>
+<!-- ERC20Burnable.burnFrom&#45;&gt;ERC20._msgSender -->
+<g id="edge67" class="edge" data-name="ERC20Burnable.burnFrom-&gt;ERC20._msgSender">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M1068.08,-39.73C1094.63,-42.38 1126.15,-49.1 1145.69,-70 1218.71,-148.11 1122.93,-222.4 1181.97,-314.46" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1178.94,-316.23 1187.54,-322.41 1184.67,-312.21 1178.94,-316.23" style=""/>
+</g>
+<!-- ERC20Burnable.allowance -->
+<g id="node71" class="node" pointer-events="visible" data-name="ERC20Burnable.allowance">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1240.47" cy="-34" rx="50.36" ry="18" style=""/>
+<text text-anchor="middle" x="1240.47" y="-29.8" font-family="Times,serif" font-size="14.00" style="">allowance</text>
+</g>
+<!-- ERC20Burnable.burnFrom&#45;&gt;ERC20Burnable.allowance -->
+<g id="edge64" class="edge" data-name="ERC20Burnable.burnFrom-&gt;ERC20Burnable.allowance">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M1070.58,-34C1101.82,-34 1142.26,-34 1175.73,-34" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1175.63,-37.5 1185.63,-34 1175.63,-30.5 1175.63,-37.5" style=""/>
+</g>
+<!-- ReentrancyGuard.&lt;Constructor&gt; -->
+<g id="node72" class="node" pointer-events="visible" data-name="ReentrancyGuard.&lt;Constructor&gt;">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="154.71" cy="-3230" rx="67.55" ry="18" style=""/>
+<text text-anchor="middle" x="154.71" y="-3225.8" font-family="Times,serif" font-size="14.00" style="">&lt;Constructor&gt;</text>
+</g>
+<!-- ReentrancyGuard.nonReentrant -->
+<g id="node73" class="node" pointer-events="visible" data-name="ReentrancyGuard.nonReentrant">
+
+<polygon fill="#edad56" stroke="#1bc6a6" stroke-width="3" points="222.73,-3164.54 222.73,-3179.46 182.89,-3190 126.53,-3190 86.68,-3179.46 86.68,-3164.54 126.53,-3154 182.89,-3154 222.73,-3164.54" style=""/>
+<polygon fill="none" stroke="#1bc6a6" stroke-width="3" points="226.72,-3161.46 226.72,-3182.54 183.4,-3194 126.01,-3194 82.69,-3182.54 82.69,-3161.46 126.01,-3150 183.4,-3150 226.72,-3161.46" style=""/>
+<text text-anchor="middle" x="154.71" y="-3167.8" font-family="Times,serif" font-size="14.00" style="">nonReentrant</text>
+</g>
+<!-- LiquidInfrastructureNFT._withdrawBalancesTo -->
+<g id="node82" class="node" pointer-events="visible" data-name="LiquidInfrastructureNFT._withdrawBalancesTo">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1019.29" cy="-919" rx="97.84" ry="18" style=""/>
+<text text-anchor="middle" x="1019.29" y="-914.8" font-family="Times,serif" font-size="14.00" style="">_withdrawBalancesTo</text>
+</g>
+<!-- LiquidInfrastructureNFT.withdrawBalancesTo&#45;&gt;LiquidInfrastructureNFT._withdrawBalancesTo -->
+<g id="edge78" class="edge" data-name="LiquidInfrastructureNFT.withdrawBalancesTo-&gt;LiquidInfrastructureNFT._withdrawBalancesTo">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M822.14,-1059.4C834.75,-1055.27 846.87,-1049.37 856.9,-1041 888.1,-1014.99 862.64,-984.09 892.9,-957 903.28,-947.71 915.88,-940.69 929.03,-935.38" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="930.15,-938.7 938.37,-932.01 927.77,-932.11 930.15,-938.7" style=""/>
+</g>
+<!-- LiquidInfrastructureNFT._isApprovedOrOwner -->
+<g id="node85" class="node" pointer-events="visible" data-name="LiquidInfrastructureNFT._isApprovedOrOwner">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1019.29" cy="-984" rx="97.29" ry="18" style=""/>
+<text text-anchor="middle" x="1019.29" y="-979.8" font-family="Times,serif" font-size="14.00" style="">_isApprovedOrOwner</text>
+</g>
+<!-- LiquidInfrastructureNFT.withdrawBalancesTo&#45;&gt;LiquidInfrastructureNFT._isApprovedOrOwner -->
+<g id="edge76" class="edge" data-name="LiquidInfrastructureNFT.withdrawBalancesTo-&gt;LiquidInfrastructureNFT._isApprovedOrOwner">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M804.62,-1054.34C821.75,-1050.42 840.1,-1045.87 856.9,-1041 892.31,-1030.75 931.29,-1017.05 962.07,-1005.65" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="962.89,-1009.08 971.04,-1002.31 960.44,-1002.52 962.89,-1009.08" style=""/>
+</g>
+<!-- LiquidInfrastructureNFT._msgSender -->
+<g id="node86" class="node" pointer-events="visible" data-name="LiquidInfrastructureNFT._msgSender">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1019.29" cy="-1058" rx="58.56" ry="18" style=""/>
+<text text-anchor="middle" x="1019.29" y="-1053.8" font-family="Times,serif" font-size="14.00" style="">_msgSender</text>
+</g>
+<!-- LiquidInfrastructureNFT.withdrawBalancesTo&#45;&gt;LiquidInfrastructureNFT._msgSender -->
+<g id="edge77" class="edge" data-name="LiquidInfrastructureNFT.withdrawBalancesTo-&gt;LiquidInfrastructureNFT._msgSender">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M830.52,-1064.71C868.39,-1063.36 911.59,-1061.81 947,-1060.55" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="946.77,-1064.06 956.64,-1060.2 946.52,-1057.06 946.77,-1064.06" style=""/>
+</g>
+<!-- LiquidInfrastructureNFT.&lt;Constructor&gt; -->
+<g id="node79" class="node" pointer-events="visible" data-name="LiquidInfrastructureNFT.&lt;Constructor&gt;">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="737.53" cy="-1122" rx="67.55" ry="18" style=""/>
+<text text-anchor="middle" x="737.53" y="-1117.8" font-family="Times,serif" font-size="14.00" style="">&lt;Constructor&gt;</text>
+</g>
+<!-- LiquidInfrastructureNFT._mint -->
+<g id="node84" class="node" pointer-events="visible" data-name="LiquidInfrastructureNFT._mint">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1019.29" cy="-1122" rx="33.64" ry="18" style=""/>
+<text text-anchor="middle" x="1019.29" y="-1117.8" font-family="Times,serif" font-size="14.00" style="">_mint</text>
+</g>
+<!-- LiquidInfrastructureNFT.&lt;Constructor&gt;&#45;&gt;LiquidInfrastructureNFT._mint -->
+<g id="edge69" class="edge" data-name="LiquidInfrastructureNFT.&lt;Constructor&gt;-&gt;LiquidInfrastructureNFT._mint">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M806.25,-1122C857.36,-1122 926.17,-1122 971.35,-1122" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="971.26,-1125.5 981.26,-1122 971.26,-1118.5 971.26,-1125.5" style=""/>
+</g>
+<!-- string.concat -->
+<g id="node139" class="node" pointer-events="visible" data-name="string.concat">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1019.29" cy="-1261" rx="36.47" ry="18" style=""/>
+<text text-anchor="middle" x="1019.29" y="-1256.8" font-family="Times,serif" font-size="14.00" style="">concat</text>
+</g>
+<!-- LiquidInfrastructureNFT.&lt;Constructor&gt;&#45;&gt;string.concat -->
+<g id="edge70" class="edge" data-name="LiquidInfrastructureNFT.&lt;Constructor&gt;-&gt;string.concat">
+
+<path fill="none" stroke="white" stroke-width="2" d="M804.54,-1117.42C823.1,-1120.91 842.2,-1127.85 856.9,-1140 887.58,-1165.36 862.36,-1196.48 892.9,-1222 914.7,-1240.21 945.69,-1247.74 971.41,-1251.8" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="970.91,-1255.26 981.31,-1253.21 971.9,-1248.33 970.91,-1255.26" style=""/>
+</g>
+<!-- LiquidInfrastructureNFT.&lt;Constructor&gt;&#45;&gt;string.concat -->
+<g id="edge71" class="edge" data-name="LiquidInfrastructureNFT.&lt;Constructor&gt;-&gt;string.concat">
+
+<path fill="none" stroke="white" stroke-width="2" d="M795.09,-1132.65C816.42,-1136.69 839.68,-1143.77 856.9,-1158 887.58,-1183.36 862.36,-1214.48 892.9,-1240 914.63,-1258.15 945.48,-1265.69 971.15,-1267.58" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="970.87,-1271.08 981,-1267.97 971.15,-1264.08 970.87,-1271.08" style=""/>
+</g>
+<!-- LiquidInfrastructureNFT.setThresholds -->
+<g id="node80" class="node" pointer-events="visible" data-name="LiquidInfrastructureNFT.setThresholds">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="737.53" cy="-906" rx="64.86" ry="18" style=""/>
+<text text-anchor="middle" x="737.53" y="-901.8" font-family="Times,serif" font-size="14.00" style="">setThresholds</text>
+</g>
+<!-- LiquidInfrastructureNFT.withdrawBalances -->
+<g id="node81" class="node" pointer-events="visible" data-name="LiquidInfrastructureNFT.withdrawBalances">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="737.53" cy="-852" rx="82.23" ry="18" style=""/>
+<text text-anchor="middle" x="737.53" y="-847.8" font-family="Times,serif" font-size="14.00" style="">withdrawBalances</text>
+</g>
+<!-- LiquidInfrastructureNFT.withdrawBalances&#45;&gt;LiquidInfrastructureNFT.ownerOf -->
+<g id="edge74" class="edge" data-name="LiquidInfrastructureNFT.withdrawBalances-&gt;LiquidInfrastructureNFT.ownerOf">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M814.98,-844.62C861.06,-840.17 918.8,-834.6 960.96,-830.53" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="961.16,-834.03 970.78,-829.59 960.49,-827.06 961.16,-834.03" style=""/>
+</g>
+<!-- LiquidInfrastructureNFT.withdrawBalances&#45;&gt;LiquidInfrastructureNFT._withdrawBalancesTo -->
+<g id="edge75" class="edge" data-name="LiquidInfrastructureNFT.withdrawBalances-&gt;LiquidInfrastructureNFT._withdrawBalancesTo">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M798.19,-865.38C816.99,-869.66 837.83,-874.46 856.9,-879 885.88,-885.9 917.73,-893.73 945.41,-900.63" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="944.33,-903.97 954.88,-902.99 946.02,-897.17 944.33,-903.97" style=""/>
+</g>
+<!-- LiquidInfrastructureNFT.withdrawBalances&#45;&gt;LiquidInfrastructureNFT._isApprovedOrOwner -->
+<g id="edge72" class="edge" data-name="LiquidInfrastructureNFT.withdrawBalances-&gt;LiquidInfrastructureNFT._isApprovedOrOwner">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M814.75,-859.37C829.78,-863.47 844.66,-869.68 856.9,-879 883.79,-899.48 866.75,-924.59 892.9,-946 904.07,-955.14 917.39,-962.08 931.13,-967.36" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="929.81,-970.6 940.4,-970.58 932.11,-963.99 929.81,-970.6" style=""/>
+</g>
+<!-- LiquidInfrastructureNFT.withdrawBalances&#45;&gt;LiquidInfrastructureNFT._msgSender -->
+<g id="edge73" class="edge" data-name="LiquidInfrastructureNFT.withdrawBalances-&gt;LiquidInfrastructureNFT._msgSender">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M817.41,-857.6C831.99,-861.86 846.02,-868.57 856.9,-879 900.8,-921.09 851.94,-966.06 892.9,-1011 908.62,-1028.24 931.29,-1039.19 953.04,-1046.13" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="951.84,-1049.42 962.42,-1048.83 953.78,-1042.7 951.84,-1049.42" style=""/>
+</g>
+<!-- LiquidInfrastructureNFT.recoverAccount -->
+<g id="node83" class="node" pointer-events="visible" data-name="LiquidInfrastructureNFT.recoverAccount">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="737.53" cy="-798" rx="72.9" ry="18" style=""/>
+<text text-anchor="middle" x="737.53" y="-793.8" font-family="Times,serif" font-size="14.00" style="">recoverAccount</text>
+</g>
+<!-- ERC721.&lt;Constructor&gt; -->
+<g id="node87" class="node" pointer-events="visible" data-name="ERC721.&lt;Constructor&gt;">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="154.71" cy="-3654" rx="67.55" ry="18" style=""/>
+<text text-anchor="middle" x="154.71" y="-3649.8" font-family="Times,serif" font-size="14.00" style="">&lt;Constructor&gt;</text>
+</g>
+<!-- ERC721.supportsInterface -->
+<g id="node88" class="node" pointer-events="visible" data-name="ERC721.supportsInterface">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="154.71" cy="-3315" rx="78.14" ry="18" style=""/>
+<text text-anchor="middle" x="154.71" y="-3310.8" font-family="Times,serif" font-size="14.00" style="">supportsInterface</text>
+</g>
+<!-- ERC721.type -->
+<g id="node111" class="node" pointer-events="visible" data-name="ERC721.type">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="455.78" cy="-3315" rx="27.83" ry="18" style=""/>
+<text text-anchor="middle" x="455.78" y="-3310.8" font-family="Times,serif" font-size="14.00" style="">type</text>
+</g>
+<!-- ERC721.supportsInterface&#45;&gt;ERC721.type -->
+<g id="edge79" class="edge" data-name="ERC721.supportsInterface-&gt;ERC721.type">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M230.41,-3309.07C288.67,-3307.68 367.36,-3308.06 414.4,-3310.21" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="414.16,-3313.7 424.33,-3310.74 414.53,-3306.71 414.16,-3313.7" style=""/>
+</g>
+<!-- ERC721.supportsInterface&#45;&gt;ERC721.type -->
+<g id="edge80" class="edge" data-name="ERC721.supportsInterface-&gt;ERC721.type">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M230.41,-3320.93C288.67,-3322.32 367.36,-3321.94 414.4,-3319.79" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="414.53,-3323.29 424.33,-3319.26 414.16,-3316.3 414.53,-3323.29" style=""/>
+</g>
+<!-- IERC721Metadata.supportsInterface -->
+<g id="node122" class="node" pointer-events="visible" data-name="IERC721Metadata.supportsInterface">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="455.78" cy="-3230" rx="78.14" ry="18" style=""/>
+<text text-anchor="middle" x="455.78" y="-3225.8" font-family="Times,serif" font-size="14.00" style="">supportsInterface</text>
+</g>
+<!-- ERC721.supportsInterface&#45;&gt;IERC721Metadata.supportsInterface -->
+<g id="edge81" class="edge" data-name="ERC721.supportsInterface-&gt;IERC721Metadata.supportsInterface">
+
+<path fill="none" stroke="white" stroke-width="2" d="M217.43,-3303.12C241.31,-3298.11 268.78,-3291.86 293.42,-3285 329.29,-3275.01 368.87,-3261.56 399.86,-3250.46" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="400.65,-3253.9 408.87,-3247.21 398.27,-3247.31 400.65,-3253.9" style=""/>
+</g>
+<!-- ERC721.balanceOf -->
+<g id="node89" class="node" pointer-events="visible" data-name="ERC721.balanceOf">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="154.71" cy="-3477" rx="50.92" ry="18" style=""/>
+<text text-anchor="middle" x="154.71" y="-3472.8" font-family="Times,serif" font-size="14.00" style="">balanceOf</text>
+</g>
+<!-- ERC721.ownerOf -->
+<g id="node90" class="node" pointer-events="visible" data-name="ERC721.ownerOf">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1240.47" cy="-3591" rx="45.22" ry="18" style=""/>
+<text text-anchor="middle" x="1240.47" y="-3586.8" font-family="Times,serif" font-size="14.00" style="">ownerOf</text>
+</g>
+<!-- ERC721.name -->
+<g id="node91" class="node" pointer-events="visible" data-name="ERC721.name">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="154.71" cy="-3423" rx="31.9" ry="18" style=""/>
+<text text-anchor="middle" x="154.71" y="-3418.8" font-family="Times,serif" font-size="14.00" style="">name</text>
+</g>
+<!-- ERC721.symbol -->
+<g id="node92" class="node" pointer-events="visible" data-name="ERC721.symbol">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="154.71" cy="-3369" rx="39.45" ry="18" style=""/>
+<text text-anchor="middle" x="154.71" y="-3364.8" font-family="Times,serif" font-size="14.00" style="">symbol</text>
+</g>
+<!-- ERC721.tokenURI -->
+<g id="node93" class="node" pointer-events="visible" data-name="ERC721.tokenURI">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="1019.29" cy="-3315" rx="49.24" ry="18" style=""/>
+<text text-anchor="middle" x="1019.29" y="-3310.8" font-family="Times,serif" font-size="14.00" style="">tokenURI</text>
+</g>
+<!-- ERC721._baseURI -->
+<g id="node94" class="node" pointer-events="visible" data-name="ERC721._baseURI">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1240.47" cy="-3315" rx="49.81" ry="18" style=""/>
+<text text-anchor="middle" x="1240.47" y="-3310.8" font-family="Times,serif" font-size="14.00" style="">_baseURI</text>
+</g>
+<!-- ERC721.tokenURI&#45;&gt;ERC721._baseURI -->
+<g id="edge83" class="edge" data-name="ERC721.tokenURI-&gt;ERC721._baseURI">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M1070.03,-3315C1101.47,-3315 1142.4,-3315 1176.15,-3315" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1176.14,-3318.5 1186.14,-3315 1176.14,-3311.5 1176.14,-3318.5" style=""/>
+</g>
+<!-- ERC721._exists -->
+<g id="node102" class="node" pointer-events="visible" data-name="ERC721._exists">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1240.47" cy="-3388" rx="37.72" ry="18" style=""/>
+<text text-anchor="middle" x="1240.47" y="-3383.8" font-family="Times,serif" font-size="14.00" style="">_exists</text>
+</g>
+<!-- ERC721.tokenURI&#45;&gt;ERC721._exists -->
+<g id="edge82" class="edge" data-name="ERC721.tokenURI-&gt;ERC721._exists">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M1066.3,-3322.13C1090.34,-3326.54 1120.02,-3333.09 1145.69,-3342 1165.31,-3348.81 1186.15,-3358.74 1203.19,-3367.63" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1201.18,-3370.52 1211.65,-3372.14 1204.47,-3364.35 1201.18,-3370.52" style=""/>
+</g>
+<!-- tokenId.toString -->
+<g id="node140" class="node" pointer-events="visible" data-name="tokenId.toString">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1240.47" cy="-3230" rx="42.32" ry="18" style=""/>
+<text text-anchor="middle" x="1240.47" y="-3225.8" font-family="Times,serif" font-size="14.00" style="">toString</text>
+</g>
+<!-- ERC721.tokenURI&#45;&gt;tokenId.toString -->
+<g id="edge84" class="edge" data-name="ERC721.tokenURI-&gt;tokenId.toString">
+
+<path fill="none" stroke="white" stroke-width="2" d="M1055.51,-3301.34C1093.45,-3286.63 1153.92,-3263.18 1195.09,-3247.21" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="1196.32,-3250.49 1204.37,-3243.61 1193.78,-3243.96 1196.32,-3250.49" style=""/>
+</g>
+<!-- ERC721.approve -->
+<g id="node95" class="node" pointer-events="visible" data-name="ERC721.approve">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="737.53" cy="-3489" rx="42.28" ry="18" style=""/>
+<text text-anchor="middle" x="737.53" y="-3484.8" font-family="Times,serif" font-size="14.00" style="">approve</text>
+</g>
+<!-- ERC721.approve&#45;&gt;ERC721.ownerOf -->
+<g id="edge85" class="edge" data-name="ERC721.approve-&gt;ERC721.ownerOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M779.71,-3493.88C803.16,-3497.75 832.62,-3504.49 856.9,-3516 875.22,-3524.68 874.01,-3536.67 892.9,-3544 997.98,-3584.75 1034.8,-3543.86 1145.69,-3564 1160.9,-3566.76 1177.19,-3570.99 1191.84,-3575.28" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="1190.76,-3578.61 1201.34,-3578.16 1192.79,-3571.91 1190.76,-3578.61" style=""/>
+</g>
+<!-- ERC721.isApprovedForAll -->
+<g id="node98" class="node" pointer-events="visible" data-name="ERC721.isApprovedForAll">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1019.29" cy="-3517" rx="81.7" ry="18" style=""/>
+<text text-anchor="middle" x="1019.29" y="-3512.8" font-family="Times,serif" font-size="14.00" style="">isApprovedForAll</text>
+</g>
+<!-- ERC721.approve&#45;&gt;ERC721.isApprovedForAll -->
+<g id="edge87" class="edge" data-name="ERC721.approve-&gt;ERC721.isApprovedForAll">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M780.11,-3493.16C819.46,-3497.1 879.79,-3503.14 929.88,-3508.15" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="929.4,-3511.62 939.7,-3509.13 930.1,-3504.66 929.4,-3511.62" style=""/>
+</g>
+<!-- ERC721._approve -->
+<g id="node108" class="node" pointer-events="visible" data-name="ERC721._approve">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1019.29" cy="-3591" rx="46.93" ry="18" style=""/>
+<text text-anchor="middle" x="1019.29" y="-3586.8" font-family="Times,serif" font-size="14.00" style="">_approve</text>
+</g>
+<!-- ERC721.approve&#45;&gt;ERC721._approve -->
+<g id="edge89" class="edge" data-name="ERC721.approve-&gt;ERC721._approve">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M780.73,-3491.98C804.52,-3495.22 833.98,-3501.97 856.9,-3516 878.16,-3529.01 871.81,-3545.72 892.9,-3559 912.85,-3571.56 937.51,-3579.2 959.66,-3583.84" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="958.91,-3587.26 969.39,-3585.68 960.22,-3580.38 958.91,-3587.26" style=""/>
+</g>
+<!-- ERC721._msgSender -->
+<g id="node112" class="node" pointer-events="visible" data-name="ERC721._msgSender">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1019.29" cy="-3463" rx="58.56" ry="18" style=""/>
+<text text-anchor="middle" x="1019.29" y="-3458.8" font-family="Times,serif" font-size="14.00" style="">_msgSender</text>
+</g>
+<!-- ERC721.approve&#45;&gt;ERC721._msgSender -->
+<g id="edge86" class="edge" data-name="ERC721.approve-&gt;ERC721._msgSender">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M776.84,-3480.62C820.39,-3474.47 892.44,-3467.39 946.52,-3463.69" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="946.73,-3467.18 956.48,-3463.04 946.27,-3460.2 946.73,-3467.18" style=""/>
+</g>
+<!-- ERC721.approve&#45;&gt;ERC721._msgSender -->
+<g id="edge88" class="edge" data-name="ERC721.approve-&gt;ERC721._msgSender">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M781.02,-3490.06C827.34,-3487.8 901.94,-3481.11 955.12,-3474.62" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="955.33,-3478.12 964.81,-3473.4 954.45,-3471.18 955.33,-3478.12" style=""/>
+</g>
+<!-- ERC721.getApproved -->
+<g id="node96" class="node" pointer-events="visible" data-name="ERC721.getApproved">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="1019.29" cy="-3369" rx="61.41" ry="18" style=""/>
+<text text-anchor="middle" x="1019.29" y="-3364.8" font-family="Times,serif" font-size="14.00" style="">getApproved</text>
+</g>
+<!-- ERC721.getApproved&#45;&gt;ERC721._exists -->
+<g id="edge90" class="edge" data-name="ERC721.getApproved-&gt;ERC721._exists">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M1079.89,-3374.17C1114.1,-3377.13 1156.57,-3380.81 1189.09,-3383.63" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1188.64,-3387.11 1198.91,-3384.48 1189.25,-3380.13 1188.64,-3387.11" style=""/>
+</g>
+<!-- ERC721.setApprovalForAll -->
+<g id="node97" class="node" pointer-events="visible" data-name="ERC721.setApprovalForAll">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="737.53" cy="-3415" rx="83.98" ry="18" style=""/>
+<text text-anchor="middle" x="737.53" y="-3410.8" font-family="Times,serif" font-size="14.00" style="">setApprovalForAll</text>
+</g>
+<!-- ERC721.setApprovalForAll&#45;&gt;ERC721._msgSender -->
+<g id="edge91" class="edge" data-name="ERC721.setApprovalForAll-&gt;ERC721._msgSender">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M822.47,-3416.91C870.83,-3423.37 929.87,-3434.17 970.41,-3444.32" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="969.39,-3447.67 979.95,-3446.81 971.16,-3440.9 969.39,-3447.67" style=""/>
+</g>
+<!-- ERC721.setApprovalForAll&#45;&gt;ERC721._msgSender -->
+<g id="edge92" class="edge" data-name="ERC721.setApprovalForAll-&gt;ERC721._msgSender">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M805.9,-3426.56C850.78,-3434.26 909.43,-3444.32 953.72,-3451.92" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="952.96,-3455.34 963.41,-3453.58 954.15,-3448.44 952.96,-3455.34" style=""/>
+</g>
+<!-- ERC721.setApprovalForAll&#45;&gt;ERC721._msgSender -->
+<g id="edge93" class="edge" data-name="ERC721.setApprovalForAll-&gt;ERC721._msgSender">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M779.51,-3431.91C823.32,-3443.42 893.65,-3456.17 946.65,-3462.67" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="946.05,-3466.12 956.38,-3463.79 946.85,-3459.16 946.05,-3466.12" style=""/>
+</g>
+<!-- ERC721.transferFrom -->
+<g id="node99" class="node" pointer-events="visible" data-name="ERC721.transferFrom">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="455.78" cy="-3389" rx="61.41" ry="18" style=""/>
+<text text-anchor="middle" x="455.78" y="-3384.8" font-family="Times,serif" font-size="14.00" style="">transferFrom</text>
+</g>
+<!-- ERC721._isApprovedOrOwner -->
+<g id="node103" class="node" pointer-events="visible" data-name="ERC721._isApprovedOrOwner">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="737.53" cy="-3341" rx="97.29" ry="18" style=""/>
+<text text-anchor="middle" x="737.53" y="-3336.8" font-family="Times,serif" font-size="14.00" style="">_isApprovedOrOwner</text>
+</g>
+<!-- ERC721.transferFrom&#45;&gt;ERC721._isApprovedOrOwner -->
+<g id="edge94" class="edge" data-name="ERC721.transferFrom-&gt;ERC721._isApprovedOrOwner">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M510.72,-3379.75C550.2,-3372.97 604.58,-3363.64 650.08,-3355.83" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="650.42,-3359.33 659.68,-3354.19 649.23,-3352.43 650.42,-3359.33" style=""/>
+</g>
+<!-- ERC721._transfer -->
+<g id="node107" class="node" pointer-events="visible" data-name="ERC721._transfer">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="737.53" cy="-3543" rx="45.21" ry="18" style=""/>
+<text text-anchor="middle" x="737.53" y="-3538.8" font-family="Times,serif" font-size="14.00" style="">_transfer</text>
+</g>
+<!-- ERC721.transferFrom&#45;&gt;ERC721._transfer -->
+<g id="edge96" class="edge" data-name="ERC721.transferFrom-&gt;ERC721._transfer">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M474.3,-3407.23C502.12,-3435.07 559.28,-3487.89 618.15,-3516 637.44,-3525.21 660.01,-3531.36 680.25,-3535.43" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="679.37,-3538.82 689.84,-3537.2 680.65,-3531.94 679.37,-3538.82" style=""/>
+</g>
+<!-- ERC721.transferFrom&#45;&gt;ERC721._msgSender -->
+<g id="edge95" class="edge" data-name="ERC721.transferFrom-&gt;ERC721._msgSender">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M515.11,-3382.87C611.18,-3373.75 797.98,-3360.48 856.9,-3388 879.49,-3398.55 871.81,-3417.72 892.9,-3431 910.06,-3441.8 930.7,-3448.96 950.24,-3453.71" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="949.39,-3457.11 959.91,-3455.84 950.9,-3450.27 949.39,-3457.11" style=""/>
+</g>
+<!-- ERC721.safeTransferFrom -->
+<g id="node100" class="node" pointer-events="visible" data-name="ERC721.safeTransferFrom">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="154.71" cy="-3531" rx="80.43" ry="18" style=""/>
+<text text-anchor="middle" x="154.71" y="-3526.8" font-family="Times,serif" font-size="14.00" style="">safeTransferFrom</text>
+</g>
+<!-- ERC721.safeTransferFrom&#45;&gt;ERC721.safeTransferFrom -->
+<g id="edge97" class="edge" data-name="ERC721.safeTransferFrom-&gt;ERC721.safeTransferFrom">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M103.77,-3546.17C88.33,-3556.66 105.31,-3567 154.71,-3567 182.49,-3567 200.02,-3563.73 207.29,-3559" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="210.78,-3558.64 206.03,-3549.17 203.83,-3559.53 210.78,-3558.64" style=""/>
+</g>
+<!-- ERC721._safeTransfer -->
+<g id="node101" class="node" pointer-events="visible" data-name="ERC721._safeTransfer">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="455.78" cy="-3543" rx="64.23" ry="18" style=""/>
+<text text-anchor="middle" x="455.78" y="-3538.8" font-family="Times,serif" font-size="14.00" style="">_safeTransfer</text>
+</g>
+<!-- ERC721.safeTransferFrom&#45;&gt;ERC721._safeTransfer -->
+<g id="edge100" class="edge" data-name="ERC721.safeTransferFrom-&gt;ERC721._safeTransfer">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M235.46,-3534.2C279.62,-3535.97 334.25,-3538.16 377.94,-3539.92" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="377.67,-3543.41 387.8,-3540.31 377.95,-3536.41 377.67,-3543.41" style=""/>
+</g>
+<!-- ERC721.safeTransferFrom&#45;&gt;ERC721._isApprovedOrOwner -->
+<g id="edge98" class="edge" data-name="ERC721.safeTransferFrom-&gt;ERC721._isApprovedOrOwner">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M236.39,-3530.29C257.19,-3526.36 278.02,-3518.57 293.42,-3504 340.7,-3459.24 279.08,-3403.29 329.42,-3362 340.81,-3352.65 509.85,-3346.58 626.49,-3343.47" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="626.44,-3346.98 636.35,-3343.22 626.26,-3339.98 626.44,-3346.98" style=""/>
+</g>
+<!-- ERC721.safeTransferFrom&#45;&gt;ERC721._msgSender -->
+<g id="edge99" class="edge" data-name="ERC721.safeTransferFrom-&gt;ERC721._msgSender">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M217.84,-3518.73C306.3,-3501.96 473.86,-3472.71 618.15,-3462 723.97,-3454.15 750.79,-3461.67 856.9,-3462 886.17,-3462.09 918.43,-3462.27 946.36,-3462.46" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="946.22,-3465.96 956.24,-3462.53 946.27,-3458.96 946.22,-3465.96" style=""/>
+</g>
+<!-- ERC721._safeTransfer&#45;&gt;ERC721._transfer -->
+<g id="edge101" class="edge" data-name="ERC721._safeTransfer-&gt;ERC721._transfer">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M521.31,-3543C568.6,-3543 632.27,-3543 678.07,-3543" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="678.05,-3546.5 688.05,-3543 678.05,-3539.5 678.05,-3546.5" style=""/>
+</g>
+<!-- ERC721._checkOnERC721Received -->
+<g id="node109" class="node" pointer-events="visible" data-name="ERC721._checkOnERC721Received">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="737.53" cy="-3597" rx="119.25" ry="18" style=""/>
+<text text-anchor="middle" x="737.53" y="-3592.8" font-family="Times,serif" font-size="14.00" style="">_checkOnERC721Received</text>
+</g>
+<!-- ERC721._safeTransfer&#45;&gt;ERC721._checkOnERC721Received -->
+<g id="edge102" class="edge" data-name="ERC721._safeTransfer-&gt;ERC721._checkOnERC721Received">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M511.05,-3553.48C549.6,-3560.92 602.25,-3571.08 646.97,-3579.71" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="646.21,-3583.13 656.69,-3581.59 647.54,-3576.26 646.21,-3583.13" style=""/>
+</g>
+<!-- ERC721._isApprovedOrOwner&#45;&gt;ERC721.ownerOf -->
+<g id="edge104" class="edge" data-name="ERC721._isApprovedOrOwner-&gt;ERC721.ownerOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M820.15,-3351.62C832.99,-3355.32 845.71,-3360.3 856.9,-3367 878,-3379.62 871.14,-3397.55 892.9,-3409 992.9,-3461.6 1050.35,-3375.36 1145.69,-3436 1190.59,-3464.57 1217.11,-3523.09 1229.92,-3559.49" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="1226.59,-3560.55 1233.08,-3568.93 1233.23,-3558.34 1226.59,-3560.55" style=""/>
+</g>
+<!-- ERC721._isApprovedOrOwner&#45;&gt;ERC721.getApproved -->
+<g id="edge105" class="edge" data-name="ERC721._isApprovedOrOwner-&gt;ERC721.getApproved">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M825.51,-3349.71C864.54,-3353.61 910.01,-3358.16 946.99,-3361.86" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="946.38,-3365.32 956.68,-3362.83 947.08,-3358.35 946.38,-3365.32" style=""/>
+</g>
+<!-- ERC721._isApprovedOrOwner&#45;&gt;ERC721.isApprovedForAll -->
+<g id="edge106" class="edge" data-name="ERC721._isApprovedOrOwner-&gt;ERC721.isApprovedForAll">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M803.12,-3355.54C822.49,-3362.6 842.42,-3372.94 856.9,-3388 890.23,-3422.64 856.82,-3458.24 892.9,-3490 902.49,-3498.44 914.08,-3504.46 926.3,-3508.71" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="925.18,-3512.03 935.76,-3511.53 927.18,-3505.32 925.18,-3512.03" style=""/>
+</g>
+<!-- ERC721._isApprovedOrOwner&#45;&gt;ERC721._exists -->
+<g id="edge103" class="edge" data-name="ERC721._isApprovedOrOwner-&gt;ERC721._exists">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M804.88,-3355.13C822.18,-3359.84 840.55,-3365.77 856.9,-3373 874.27,-3380.68 874.68,-3390.68 892.9,-3396 996.07,-3426.14 1123.96,-3410.34 1191.87,-3398.02" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1192.47,-3401.47 1201.65,-3396.18 1191.18,-3394.59 1192.47,-3401.47" style=""/>
+</g>
+<!-- ERC721._safeMint -->
+<g id="node104" class="node" pointer-events="visible" data-name="ERC721._safeMint">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="455.78" cy="-3642" rx="50.39" ry="18" style=""/>
+<text text-anchor="middle" x="455.78" y="-3637.8" font-family="Times,serif" font-size="14.00" style="">_safeMint</text>
+</g>
+<!-- ERC721._safeMint&#45;&gt;ERC721._safeMint -->
+<g id="edge107" class="edge" data-name="ERC721._safeMint-&gt;ERC721._safeMint">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M414.18,-3653.61C390.47,-3665.19 404.33,-3678 455.78,-3678 495.58,-3678 512.89,-3670.34 507.72,-3661.51" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="509.86,-3658.74 499.79,-3655.45 505.61,-3664.31 509.86,-3658.74" style=""/>
+</g>
+<!-- ERC721._mint -->
+<g id="node105" class="node" pointer-events="visible" data-name="ERC721._mint">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="737.53" cy="-3705" rx="33.64" ry="18" style=""/>
+<text text-anchor="middle" x="737.53" y="-3700.8" font-family="Times,serif" font-size="14.00" style="">_mint</text>
+</g>
+<!-- ERC721._safeMint&#45;&gt;ERC721._mint -->
+<g id="edge108" class="edge" data-name="ERC721._safeMint-&gt;ERC721._mint">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M500.49,-3651.84C552.77,-3663.62 639.77,-3683.21 692.28,-3695.04" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="691.37,-3698.42 701.89,-3697.2 692.91,-3691.59 691.37,-3698.42" style=""/>
+</g>
+<!-- ERC721._safeMint&#45;&gt;ERC721._checkOnERC721Received -->
+<g id="edge109" class="edge" data-name="ERC721._safeMint-&gt;ERC721._checkOnERC721Received">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M503.61,-3634.47C540.43,-3628.54 593,-3620.09 638.88,-3612.71" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="639.32,-3616.18 648.64,-3611.14 638.21,-3609.27 639.32,-3616.18" style=""/>
+</g>
+<!-- ERC721._mint&#45;&gt;ERC721._exists -->
+<g id="edge110" class="edge" data-name="ERC721._mint-&gt;ERC721._exists">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M768.04,-3714.62C840.99,-3736.39 1032.09,-3780.94 1145.69,-3692 1192.22,-3655.57 1164.47,-3620.53 1181.69,-3564 1197.23,-3512.99 1216.88,-3454.22 1228.79,-3419.14" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1232.07,-3420.39 1231.98,-3409.79 1225.44,-3418.13 1232.07,-3420.39" style=""/>
+</g>
+<!-- ERC721._beforeTokenTransfer -->
+<g id="node110" class="node" pointer-events="visible" data-name="ERC721._beforeTokenTransfer">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1019.29" cy="-3665" rx="97.8" ry="18" style=""/>
+<text text-anchor="middle" x="1019.29" y="-3660.8" font-family="Times,serif" font-size="14.00" style="">_beforeTokenTransfer</text>
+</g>
+<!-- ERC721._mint&#45;&gt;ERC721._beforeTokenTransfer -->
+<g id="edge111" class="edge" data-name="ERC721._mint-&gt;ERC721._beforeTokenTransfer">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M771.44,-3700.29C809.29,-3694.88 873.04,-3685.77 926.27,-3678.16" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="926.45,-3681.67 935.86,-3676.79 925.46,-3674.74 926.45,-3681.67" style=""/>
+</g>
+<!-- ERC721._burn -->
+<g id="node106" class="node" pointer-events="visible" data-name="ERC721._burn">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="737.53" cy="-3651" rx="33.63" ry="18" style=""/>
+<text text-anchor="middle" x="737.53" y="-3646.8" font-family="Times,serif" font-size="14.00" style="">_burn</text>
+</g>
+<!-- ERC721._burn&#45;&gt;ERC721.ownerOf -->
+<g id="edge112" class="edge" data-name="ERC721._burn-&gt;ERC721.ownerOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M770.77,-3657.02C794.76,-3661.82 828.19,-3669.19 856.9,-3678 873.32,-3683.03 876.03,-3688.83 892.9,-3692 1003.33,-3712.72 1042.7,-3736.91 1145.69,-3692 1179.01,-3677.47 1205.81,-3644.61 1222.1,-3620.3" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="1224.94,-3622.35 1227.39,-3612.04 1219.04,-3618.57 1224.94,-3622.35" style=""/>
+</g>
+<!-- ERC721._burn&#45;&gt;ERC721._approve -->
+<g id="edge114" class="edge" data-name="ERC721._burn-&gt;ERC721._approve">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M770.35,-3644.18C817.48,-3634.07 906.47,-3614.98 964.03,-3602.64" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="964.51,-3606.11 973.56,-3600.59 963.04,-3599.27 964.51,-3606.11" style=""/>
+</g>
+<!-- ERC721._burn&#45;&gt;ERC721._beforeTokenTransfer -->
+<g id="edge113" class="edge" data-name="ERC721._burn-&gt;ERC721._beforeTokenTransfer">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M772.27,-3652.69C806.5,-3654.4 861.29,-3657.14 910.49,-3659.61" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="910,-3663.09 920.16,-3660.09 910.35,-3656.09 910,-3663.09" style=""/>
+</g>
+<!-- ERC721._transfer&#45;&gt;ERC721.ownerOf -->
+<g id="edge115" class="edge" data-name="ERC721._transfer-&gt;ERC721.ownerOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M783.57,-3545.86C806.98,-3549.1 835.16,-3555.88 856.9,-3570 879.27,-3584.52 869.05,-3606.07 892.9,-3618 943.15,-3643.12 1090.06,-3625.85 1145.69,-3618 1161.28,-3615.8 1177.92,-3611.64 1192.78,-3607.23" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="1193.39,-3610.7 1201.9,-3604.4 1191.31,-3604.02 1193.39,-3610.7" style=""/>
+</g>
+<!-- ERC721._transfer&#45;&gt;ERC721._approve -->
+<g id="edge117" class="edge" data-name="ERC721._transfer-&gt;ERC721._approve">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M780.71,-3550.24C829.08,-3558.54 908.58,-3572.18 962.15,-3581.37" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="961.41,-3584.79 971.86,-3583.03 962.59,-3577.89 961.41,-3584.79" style=""/>
+</g>
+<!-- ERC721._transfer&#45;&gt;ERC721._beforeTokenTransfer -->
+<g id="edge116" class="edge" data-name="ERC721._transfer-&gt;ERC721._beforeTokenTransfer">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M784.03,-3544.75C807.71,-3547.67 835.99,-3554.5 856.9,-3570 882.81,-3589.21 867.25,-3613.46 892.9,-3633 902.39,-3640.22 913.33,-3645.83 924.72,-3650.17" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="923.24,-3653.37 933.83,-3653.28 925.5,-3646.74 923.24,-3653.37" style=""/>
+</g>
+<!-- ERC721._approve&#45;&gt;ERC721.ownerOf -->
+<g id="edge118" class="edge" data-name="ERC721._approve-&gt;ERC721.ownerOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M1067.58,-3591C1100.87,-3591 1145.64,-3591 1181.14,-3591" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="1180.74,-3594.5 1190.74,-3591 1180.74,-3587.5 1180.74,-3594.5" style=""/>
+</g>
+<!-- ERC721._checkOnERC721Received&#45;&gt;ERC721._msgSender -->
+<g id="edge120" class="edge" data-name="ERC721._checkOnERC721Received-&gt;ERC721._msgSender">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M831.37,-3584.82C840.58,-3581.05 849.32,-3576.21 856.9,-3570 887.07,-3545.3 862.59,-3514.52 892.9,-3490 908.1,-3477.71 927.61,-3470.67 946.7,-3466.73" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="947.22,-3470.2 956.47,-3465.04 946.02,-3463.3 947.22,-3470.2" style=""/>
+</g>
+<!-- to.isContract -->
+<g id="node141" class="node" pointer-events="visible" data-name="to.isContract">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1019.29" cy="-3790" rx="50.96" ry="18" style=""/>
+<text text-anchor="middle" x="1019.29" y="-3785.8" font-family="Times,serif" font-size="14.00" style="">isContract</text>
+</g>
+<!-- ERC721._checkOnERC721Received&#45;&gt;to.isContract -->
+<g id="edge119" class="edge" data-name="ERC721._checkOnERC721Received-&gt;to.isContract">
+
+<path fill="none" stroke="white" stroke-width="2" d="M833.89,-3608.62C842.36,-3612.53 850.23,-3617.56 856.9,-3624 901.87,-3667.44 848.16,-3716.32 892.9,-3760 909.17,-3775.88 932.27,-3783.88 954.21,-3787.76" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="953.55,-3791.2 963.95,-3789.16 954.55,-3784.27 953.55,-3791.2" style=""/>
+</g>
+<!-- IERC721.balanceOf -->
+<g id="node113" class="node" pointer-events="visible" data-name="IERC721.balanceOf">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="154.71" cy="-4168" rx="50.92" ry="18" style=""/>
+<text text-anchor="middle" x="154.71" y="-4163.8" font-family="Times,serif" font-size="14.00" style="">balanceOf</text>
+</g>
+<!-- IERC721.ownerOf -->
+<g id="node114" class="node" pointer-events="visible" data-name="IERC721.ownerOf">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="154.71" cy="-4114" rx="45.22" ry="18" style=""/>
+<text text-anchor="middle" x="154.71" y="-4109.8" font-family="Times,serif" font-size="14.00" style="">ownerOf</text>
+</g>
+<!-- IERC721.safeTransferFrom -->
+<g id="node115" class="node" pointer-events="visible" data-name="IERC721.safeTransferFrom">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="154.71" cy="-4060" rx="80.43" ry="18" style=""/>
+<text text-anchor="middle" x="154.71" y="-4055.8" font-family="Times,serif" font-size="14.00" style="">safeTransferFrom</text>
+</g>
+<!-- IERC721.transferFrom -->
+<g id="node116" class="node" pointer-events="visible" data-name="IERC721.transferFrom">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="154.71" cy="-4006" rx="61.41" ry="18" style=""/>
+<text text-anchor="middle" x="154.71" y="-4001.8" font-family="Times,serif" font-size="14.00" style="">transferFrom</text>
+</g>
+<!-- IERC721.approve -->
+<g id="node117" class="node" pointer-events="visible" data-name="IERC721.approve">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="154.71" cy="-3952" rx="42.28" ry="18" style=""/>
+<text text-anchor="middle" x="154.71" y="-3947.8" font-family="Times,serif" font-size="14.00" style="">approve</text>
+</g>
+<!-- IERC721.getApproved -->
+<g id="node118" class="node" pointer-events="visible" data-name="IERC721.getApproved">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="154.71" cy="-3898" rx="61.41" ry="18" style=""/>
+<text text-anchor="middle" x="154.71" y="-3893.8" font-family="Times,serif" font-size="14.00" style="">getApproved</text>
+</g>
+<!-- IERC721.setApprovalForAll -->
+<g id="node119" class="node" pointer-events="visible" data-name="IERC721.setApprovalForAll">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="154.71" cy="-3844" rx="83.98" ry="18" style=""/>
+<text text-anchor="middle" x="154.71" y="-3839.8" font-family="Times,serif" font-size="14.00" style="">setApprovalForAll</text>
+</g>
+<!-- IERC721.isApprovedForAll -->
+<g id="node120" class="node" pointer-events="visible" data-name="IERC721.isApprovedForAll">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="154.71" cy="-3790" rx="81.7" ry="18" style=""/>
+<text text-anchor="middle" x="154.71" y="-3785.8" font-family="Times,serif" font-size="14.00" style="">isApprovedForAll</text>
+</g>
+<!-- IERC165.supportsInterface -->
+<g id="node121" class="node" pointer-events="visible" data-name="IERC165.supportsInterface">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="154.71" cy="-4253" rx="78.14" ry="18" style=""/>
+<text text-anchor="middle" x="154.71" y="-4248.8" font-family="Times,serif" font-size="14.00" style="">supportsInterface</text>
+</g>
+<!-- IERC721Metadata.name -->
+<g id="node123" class="node" pointer-events="visible" data-name="IERC721Metadata.name">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="455.78" cy="-3176" rx="31.9" ry="18" style=""/>
+<text text-anchor="middle" x="455.78" y="-3171.8" font-family="Times,serif" font-size="14.00" style="">name</text>
+</g>
+<!-- IERC721Metadata.symbol -->
+<g id="node124" class="node" pointer-events="visible" data-name="IERC721Metadata.symbol">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="455.78" cy="-3122" rx="39.45" ry="18" style=""/>
+<text text-anchor="middle" x="455.78" y="-3117.8" font-family="Times,serif" font-size="14.00" style="">symbol</text>
+</g>
+<!-- IERC721Metadata.tokenURI -->
+<g id="node125" class="node" pointer-events="visible" data-name="IERC721Metadata.tokenURI">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="455.78" cy="-3068" rx="49.24" ry="18" style=""/>
+<text text-anchor="middle" x="455.78" y="-3063.8" font-family="Times,serif" font-size="14.00" style="">tokenURI</text>
+</g>
+<!-- Address.isContract -->
+<g id="node126" class="node" pointer-events="visible" data-name="Address.isContract">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="737.53" cy="-4437" rx="50.96" ry="18" style=""/>
+<text text-anchor="middle" x="737.53" y="-4432.8" font-family="Times,serif" font-size="14.00" style="">isContract</text>
+</g>
+<!-- Address.sendValue -->
+<g id="node127" class="node" pointer-events="visible" data-name="Address.sendValue">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="154.71" cy="-4500" rx="51.59" ry="18" style=""/>
+<text text-anchor="middle" x="154.71" y="-4495.8" font-family="Times,serif" font-size="14.00" style="">sendValue</text>
+</g>
+<!-- Address.functionCall -->
+<g id="node128" class="node" pointer-events="visible" data-name="Address.functionCall">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="154.71" cy="-4428" rx="59.12" ry="18" style=""/>
+<text text-anchor="middle" x="154.71" y="-4423.8" font-family="Times,serif" font-size="14.00" style="">functionCall</text>
+</g>
+<!-- Address.functionCall&#45;&gt;Address.functionCall -->
+<g id="edge121" class="edge" data-name="Address.functionCall-&gt;Address.functionCall">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M108.3,-4440.54C85.73,-4451.87 101.2,-4464 154.71,-4464 194.84,-4464 213.58,-4457.18 210.91,-4448.99" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="213.27,-4446.4 203.41,-4442.52 208.7,-4451.7 213.27,-4446.4" style=""/>
+</g>
+<!-- Address.functionCallWithValue -->
+<g id="node129" class="node" pointer-events="visible" data-name="Address.functionCallWithValue">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="455.78" cy="-4482" rx="101.86" ry="18" style=""/>
+<text text-anchor="middle" x="455.78" y="-4477.8" font-family="Times,serif" font-size="14.00" style="">functionCallWithValue</text>
+</g>
+<!-- Address.functionCall&#45;&gt;Address.functionCallWithValue -->
+<g id="edge122" class="edge" data-name="Address.functionCall-&gt;Address.functionCallWithValue">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M207.8,-4437.41C252.02,-4445.39 316.37,-4457.01 368.31,-4466.39" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="367.44,-4469.79 377.9,-4468.12 368.68,-4462.9 367.44,-4469.79" style=""/>
+</g>
+<!-- Address.functionCallWithValue&#45;&gt;Address.isContract -->
+<g id="edge124" class="edge" data-name="Address.functionCallWithValue-&gt;Address.isContract">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M534.71,-4469.46C579.59,-4462.25 635.14,-4453.31 676.59,-4446.64" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="676.94,-4450.13 686.26,-4445.09 675.83,-4443.22 676.94,-4450.13" style=""/>
+</g>
+<!-- Address.functionCallWithValue&#45;&gt;Address.functionCallWithValue -->
+<g id="edge123" class="edge" data-name="Address.functionCallWithValue-&gt;Address.functionCallWithValue">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M405.86,-4499.04C395.67,-4508.86 412.31,-4518 455.78,-4518 478.88,-4518 494.4,-4515.42 502.35,-4511.53" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="505.71,-4512.53 504.92,-4501.96 498.95,-4510.71 505.71,-4512.53" style=""/>
+</g>
+<!-- Address.verifyCallResult -->
+<g id="node132" class="node" pointer-events="visible" data-name="Address.verifyCallResult">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="737.53" cy="-4383" rx="74.74" ry="18" style=""/>
+<text text-anchor="middle" x="737.53" y="-4378.8" font-family="Times,serif" font-size="14.00" style="">verifyCallResult</text>
+</g>
+<!-- Address.functionCallWithValue&#45;&gt;Address.verifyCallResult -->
+<g id="edge125" class="edge" data-name="Address.functionCallWithValue-&gt;Address.verifyCallResult">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M543.1,-4471.59C556.79,-4467.68 570.32,-4462.32 582.15,-4455 603.93,-4441.52 596.45,-4423.61 618.15,-4410 629.38,-4402.96 642.24,-4397.74 655.25,-4393.89" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="656.02,-4397.3 664.79,-4391.36 654.23,-4390.54 656.02,-4397.3" style=""/>
+</g>
+<!-- Address.functionStaticCall -->
+<g id="node130" class="node" pointer-events="visible" data-name="Address.functionStaticCall">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="455.78" cy="-4410" rx="81.11" ry="18" style=""/>
+<text text-anchor="middle" x="455.78" y="-4405.8" font-family="Times,serif" font-size="14.00" style="">functionStaticCall</text>
+</g>
+<!-- Address.functionStaticCall&#45;&gt;Address.isContract -->
+<g id="edge127" class="edge" data-name="Address.functionStaticCall-&gt;Address.isContract">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M532.12,-4417.27C576.61,-4421.56 632.25,-4426.94 674.24,-4430.99" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="673.79,-4434.46 684.08,-4431.94 674.46,-4427.49 673.79,-4434.46" style=""/>
+</g>
+<!-- Address.functionStaticCall&#45;&gt;Address.functionStaticCall -->
+<g id="edge126" class="edge" data-name="Address.functionStaticCall-&gt;Address.functionStaticCall">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M407.61,-4425.54C394.05,-4435.91 410.11,-4446 455.78,-4446 480.76,-4446 496.88,-4442.98 504.14,-4438.55" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="507.64,-4438.52 504,-4428.57 500.65,-4438.62 507.64,-4438.52" style=""/>
+</g>
+<!-- Address.functionStaticCall&#45;&gt;Address.verifyCallResult -->
+<g id="edge129" class="edge" data-name="Address.functionStaticCall-&gt;Address.verifyCallResult">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M532.12,-4402.73C569.63,-4399.11 615.07,-4394.72 653.58,-4391.01" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="653.72,-4394.51 663.33,-4390.06 653.04,-4387.54 653.72,-4394.51" style=""/>
+</g>
+<!-- target.staticcall -->
+<g id="node142" class="node" pointer-events="visible" data-name="target.staticcall">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="737.53" cy="-4253" rx="45.21" ry="18" style=""/>
+<text text-anchor="middle" x="737.53" y="-4248.8" font-family="Times,serif" font-size="14.00" style="">staticcall</text>
+</g>
+<!-- Address.functionStaticCall&#45;&gt;target.staticcall -->
+<g id="edge128" class="edge" data-name="Address.functionStaticCall-&gt;target.staticcall">
+
+<path fill="none" stroke="white" stroke-width="2" d="M534.88,-4404.51C551.77,-4400.37 568.6,-4393.68 582.15,-4383 611.19,-4360.11 591.84,-4333.98 618.15,-4308 636.95,-4289.44 663.16,-4276.38 686.15,-4267.66" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="687.08,-4271.05 695.32,-4264.39 684.72,-4264.45 687.08,-4271.05" style=""/>
+</g>
+<!-- Address.functionDelegateCall -->
+<g id="node131" class="node" pointer-events="visible" data-name="Address.functionDelegateCall">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="455.78" cy="-4338" rx="93.75" ry="18" style=""/>
+<text text-anchor="middle" x="455.78" y="-4333.8" font-family="Times,serif" font-size="14.00" style="">functionDelegateCall</text>
+</g>
+<!-- Address.functionDelegateCall&#45;&gt;Address.isContract -->
+<g id="edge131" class="edge" data-name="Address.functionDelegateCall-&gt;Address.isContract">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M511.68,-4353.75C534.18,-4361.21 560.06,-4371.1 582.15,-4383 599.76,-4392.48 600.01,-4401.59 618.15,-4410 635.95,-4418.24 656.44,-4424.06 675.32,-4428.13" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="674.62,-4431.56 685.11,-4430.08 675.99,-4424.69 674.62,-4431.56" style=""/>
+</g>
+<!-- Address.functionDelegateCall&#45;&gt;Address.functionDelegateCall -->
+<g id="edge130" class="edge" data-name="Address.functionDelegateCall-&gt;Address.functionDelegateCall">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M406.68,-4354.29C394.85,-4364.39 411.21,-4374 455.78,-4374 479.81,-4374 495.64,-4371.21 503.28,-4367.05" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="506.73,-4367.65 504.51,-4357.29 499.78,-4366.78 506.73,-4367.65" style=""/>
+</g>
+<!-- Address.functionDelegateCall&#45;&gt;Address.verifyCallResult -->
+<g id="edge133" class="edge" data-name="Address.functionDelegateCall-&gt;Address.verifyCallResult">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M531.02,-4349.94C570.89,-4356.36 619.97,-4364.25 660.16,-4370.72" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="659.46,-4374.15 669.89,-4372.28 660.57,-4367.24 659.46,-4374.15" style=""/>
+</g>
+<!-- target.delegatecall -->
+<g id="node143" class="node" pointer-events="visible" data-name="target.delegatecall">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="737.53" cy="-4199" rx="57.29" ry="18" style=""/>
+<text text-anchor="middle" x="737.53" y="-4194.8" font-family="Times,serif" font-size="14.00" style="">delegatecall</text>
+</g>
+<!-- Address.functionDelegateCall&#45;&gt;target.delegatecall -->
+<g id="edge132" class="edge" data-name="Address.functionDelegateCall-&gt;target.delegatecall">
+
+<path fill="none" stroke="white" stroke-width="2" d="M478.12,-4319.12C507.56,-4294.08 563.24,-4250.23 618.15,-4226 634.68,-4218.71 653.41,-4213.27 671.01,-4209.27" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="671.57,-4212.73 680.62,-4207.23 670.11,-4205.88 671.57,-4212.73" style=""/>
+</g>
+<!-- Strings.toString -->
+<g id="node133" class="node" pointer-events="visible" data-name="Strings.toString">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="154.71" cy="-4657" rx="42.32" ry="18" style=""/>
+<text text-anchor="middle" x="154.71" y="-4652.8" font-family="Times,serif" font-size="14.00" style="">toString</text>
+</g>
+<!-- Strings.toHexString -->
+<g id="node134" class="node" pointer-events="visible" data-name="Strings.toHexString">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="154.71" cy="-4585" rx="58.49" ry="18" style=""/>
+<text text-anchor="middle" x="154.71" y="-4580.8" font-family="Times,serif" font-size="14.00" style="">toHexString</text>
+</g>
+<!-- Strings.toHexString&#45;&gt;Strings.toHexString -->
+<g id="edge134" class="edge" data-name="Strings.toHexString-&gt;Strings.toHexString">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M108.68,-4597.36C85.56,-4608.74 100.9,-4621 154.71,-4621 195.48,-4621 214.17,-4613.96 210.77,-4605.59" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="213.03,-4602.92 203.08,-4599.28 208.58,-4608.33 213.03,-4602.92" style=""/>
+</g>
+<!-- ERC165.supportsInterface -->
+<g id="node135" class="node" pointer-events="visible" data-name="ERC165.supportsInterface">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="154.71" cy="-4742" rx="78.14" ry="18" style=""/>
+<text text-anchor="middle" x="154.71" y="-4737.8" font-family="Times,serif" font-size="14.00" style="">supportsInterface</text>
+</g>
+<!-- ERC165.type -->
+<g id="node136" class="node" pointer-events="visible" data-name="ERC165.type">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="455.78" cy="-4742" rx="27.83" ry="18" style=""/>
+<text text-anchor="middle" x="455.78" y="-4737.8" font-family="Times,serif" font-size="14.00" style="">type</text>
+</g>
+<!-- ERC165.supportsInterface&#45;&gt;ERC165.type -->
+<g id="edge135" class="edge" data-name="ERC165.supportsInterface-&gt;ERC165.type">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M234.29,-4742C291.82,-4742 367.58,-4742 413.66,-4742" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="413.65,-4745.5 423.65,-4742 413.65,-4738.5 413.65,-4745.5" style=""/>
+</g>
+<!-- OwnableApprovableERC721.onlyOwner -->
+<g id="node137" class="node" pointer-events="visible" data-name="OwnableApprovableERC721.onlyOwner">
+
+<polygon fill="#edad56" stroke="#1bc6a6" stroke-width="3" points="514.73,-2909.54 514.73,-2924.46 480.2,-2935 431.37,-2935 396.84,-2924.46 396.84,-2909.54 431.37,-2899 480.2,-2899 514.73,-2909.54" style=""/>
+<polygon fill="none" stroke="#1bc6a6" stroke-width="3" points="518.73,-2906.58 518.73,-2927.42 480.8,-2939 430.77,-2939 392.84,-2927.42 392.84,-2906.58 430.77,-2895 480.8,-2895 518.73,-2906.58" style=""/>
+<text text-anchor="middle" x="455.78" y="-2912.8" font-family="Times,serif" font-size="14.00" style="">onlyOwner</text>
+</g>
+<!-- OwnableApprovableERC721.onlyOwner&#45;&gt;ERC721._msgSender -->
+<g id="edge136" class="edge" data-name="OwnableApprovableERC721.onlyOwner-&gt;ERC721._msgSender">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M520.19,-2919.57C611.32,-2927.01 777.11,-2955.37 856.9,-3062 946.36,-3181.54 809.38,-3272.25 892.9,-3396 908.86,-3419.65 935.97,-3435.6 960.91,-3445.98" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="959.51,-3449.19 970.1,-3449.55 962.04,-3442.67 959.51,-3449.19" style=""/>
+</g>
+<!-- OwnableApprovableERC721.onlyOwnerOrApproved -->
+<g id="node138" class="node" pointer-events="visible" data-name="OwnableApprovableERC721.onlyOwnerOrApproved">
+
+<polygon fill="#edad56" stroke="#1bc6a6" stroke-width="3" points="567.4,-2971.54 567.4,-2986.46 502.02,-2997 409.55,-2997 344.17,-2986.46 344.17,-2971.54 409.55,-2961 502.02,-2961 567.4,-2971.54" style=""/>
+<polygon fill="none" stroke="#1bc6a6" stroke-width="3" points="571.39,-2968.14 571.39,-2989.86 502.33,-3001 409.23,-3001 340.18,-2989.86 340.18,-2968.14 409.23,-2957 502.33,-2957 571.39,-2968.14" style=""/>
+<text text-anchor="middle" x="455.78" y="-2974.8" font-family="Times,serif" font-size="14.00" style="">onlyOwnerOrApproved</text>
+</g>
+<!-- OwnableApprovableERC721.onlyOwnerOrApproved&#45;&gt;ERC721._isApprovedOrOwner -->
+<g id="edge137" class="edge" data-name="OwnableApprovableERC721.onlyOwnerOrApproved-&gt;ERC721._isApprovedOrOwner">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M524.32,-2998.84C545.27,-3007.86 566.85,-3020.54 582.15,-3038 616.9,-3077.64 596.05,-3103.15 618.15,-3151 645.92,-3211.11 689.16,-3275.37 714.98,-3311.63" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="711.95,-3313.41 720.63,-3319.49 717.63,-3309.32 711.95,-3313.41" style=""/>
+</g>
+<!-- OwnableApprovableERC721.onlyOwnerOrApproved&#45;&gt;ERC721._msgSender -->
+<g id="edge138" class="edge" data-name="OwnableApprovableERC721.onlyOwnerOrApproved-&gt;ERC721._msgSender">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M513.37,-3000.63C535.76,-3010.44 561.11,-3023.18 582.15,-3038 723.65,-3137.69 759.4,-3170.99 856.9,-3314 879.32,-3346.89 865.86,-3366.79 892.9,-3396 912.72,-3417.4 940.95,-3433.32 965.62,-3444.26" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="964.02,-3447.39 974.6,-3448.05 966.75,-3440.94 964.02,-3447.39" style=""/>
+</g>
+<!-- key -->
+<g id="node144" class="node" pointer-events="visible" data-name="key">
+
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="219.71,-4897 89.71,-4897 89.71,-4809 219.71,-4809 219.71,-4897" style=""/>
+<text text-anchor="start" x="139.35" y="-4878.4" font-family="Times,serif" font-size="14.00" style="">Internal Call</text>
+<text text-anchor="start" x="135.46" y="-4858.4" font-family="Times,serif" font-size="14.00" style="">External Call</text>
+<text text-anchor="start" x="112.91" y="-4838.4" font-family="Times,serif" font-size="14.00" style="">Defined Contract</text>
+<text text-anchor="start" x="99.31" y="-4818.4" font-family="Times,serif" font-size="14.00" style="">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node145" class="node" pointer-events="visible" data-name="key2">
+
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="482.78,-4897 428.78,-4897 428.78,-4809 482.78,-4809 482.78,-4897" style=""/>
+<text text-anchor="start" x="445.78" y="-4878.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<text text-anchor="start" x="445.78" y="-4858.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="#445773" stroke="none" points="443.78,-4833 443.78,-4853 468.78,-4853 468.78,-4833 443.78,-4833" style=""/>
+<text text-anchor="start" x="445.78" y="-4838.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="none" stroke="#e8726d" points="445.78,-4815 445.78,-4831 466.78,-4831 466.78,-4815 445.78,-4815" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge139" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M212.71,-4883C310.57,-4883 338.19,-4883 430.02,-4883" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="429.76,-4886.5 439.76,-4883 429.76,-4879.5 429.76,-4886.5" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge140" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="white" stroke-width="2" d="M212.71,-4863C310.57,-4863 338.19,-4863 430.02,-4863" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="429.76,-4866.5 439.76,-4863 429.76,-4859.5 429.76,-4866.5" style=""/>
+</g>
+</g>
+</svg>
